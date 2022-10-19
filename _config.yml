@@ -16,12 +16,10 @@
 title: Preprocessor Blog
 email: hello@preprocessor.blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Towards a better life through reading...
+  Towards a better life through reading
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://preprocessor.blog" # the base hostname & protocol for your site, e.g. http://example.com
-facebook: https://facebook.com/PreprocessorBlog
-twitter: https://twitter.com/PreprocessorHu
-instagram: https://www.instagram.com/preprocessorblog
+discord: https://discord.gg/xJet2GdBqu
 
 # Build settings
 markdown: kramdown
