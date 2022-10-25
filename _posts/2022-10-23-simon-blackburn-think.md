@@ -5,6 +5,7 @@ cover: think
 tags: [outlook]
 pages: 296
 date: 2022-10-23 00:01
+hreflang: simon-blackburn-think
 excerpt: >
     Inspired by Stoicism, I asked a philosophy group what they would recommend as a good general overview.
     That's how I ended up with Simon Blackburn's "Think", which, according to its subtitle, is a "compelling introduction to philosophy".

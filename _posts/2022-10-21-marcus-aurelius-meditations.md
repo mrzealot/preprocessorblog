@@ -5,6 +5,7 @@ cover: marcus
 tags: [outlook]
 pages: 254
 date: 2022-10-21 00:01
+hreflang: marcus-aurelius-elmelkedesek
 excerpt: >
     After countless recommendations, I decided to start this journey out by an ancient journal -- and let me tell you, I was not disappointed. On the contrary!
     What we get here is unrestricted access to the private thoughts of a philosopher emperor as he tries to keep himself on the "right path" through Stoic principles.

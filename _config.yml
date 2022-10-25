@@ -40,7 +40,7 @@ minima:
 
 show_excerpts: true
 permalink: /:categories/:title
-lang: en
+lang: en-us
 paginate: 10
 paginate_path: "/:num/"
 future: false
