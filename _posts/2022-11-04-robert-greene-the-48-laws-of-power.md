@@ -7,14 +7,14 @@ pages: 452
 date: 2022-11-04 00:01
 hreflang: robert-greene-the-48-laws-of-power
 excerpt: >
-    The book reveals the general mindset that makes people successful in life. And unfortunately, it often involves deception, exploitation and cruelty. But it's important to make it clear from the outset that knowledge of the tricks of power does not in itself have any morality! Using what you learn here for good is good; using it for bad is bad. Using it to defend against bad is, again, good. This is just information...
+    The book reveals the general mindset that makes people successful in life. Unfortunately, it often involves deception, exploitation and cruelty. But it's important to make it clear from the outset that knowledge of the tricks of power does not in itself have any morality! Using what you learn here for good is good; using it for bad is bad. Using it to defend against bad is, again, good. This is just information...
 ---
 
 If the title leaves the impression that we've taken a bit of a sharp turn, let me quickly reassure everyone that we're still following Ryan Holiday's recommendations. And while the "looking up to the mentor" aspect is definitely there, -- our friend Ryan worked for Robert Greene as a research assistant when he started out -- but the zillion copies sold and the ka-chillion positive reviews are probably no coincidence either.
 
-[The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power){:target="_blank"} reveals the general mindset that makes people successful in life. And unfortunately, it often involves deception, exploitation and cruelty. But it's important to make it clear from the outset that knowledge of the tricks of power does not in itself have any morality! Using what you learn here for good is good; using it for bad is bad. Using it to defend against bad is, again, good. This is just information...
+[The 48 Laws of Power](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power){:target="_blank"} reveals the general mindset that makes people successful in life. Unfortunately, it often involves deception, exploitation and cruelty. But it's important to make it clear from the outset that knowledge of the tricks of power does not in itself have any morality! Using what you learn here for good is good; using it for bad is bad. Using it to defend against bad is, again, good. This is just information...
 
-What I particularly liked about this book is that it doesn't string you along. All 48 rules are listed right at the beginning. And then, of course, there is a dedicated chapter for each rule with a lot of useful extra info. Structurally, they are (almost) all related. They contain:
+What I particularly liked about this book is that it doesn't string you along. All 48 rules are listed right at the beginning. And then, of course, there is a dedicated chapter for each rule with a lot of useful extra info. Structurally, they are (almost) all related, containing:
 
 - a "transgression" section, with examples and interpretations of how breaking the law sucks,
 - an "observance" section, with examples and interpretations of how it can benefit us if we obey it,
@@ -22,13 +22,11 @@ What I particularly liked about this book is that it doesn't string you along. A
 - a mental picture for easy recall, and
 - possible exceptions (if any).
 
-But 48 is too many of anything, let alone laws, so I'll try to be very concise and efficient! The good news is that the headlines themselves are quite verbose, so apart from a few comments of my own, I'll just summarize the best transgression/observance in 2-2 sentences. As a personal -- and humorous? -- side-challenge, I've tried to stick to this 2-sentence limit explicitly. It turned into a few semicolons, but technically it worked! So; get; ready; for; semicolons!
+But 48 is too many of anything, let alone laws, so I'll try to be very concise and efficient! The good news is that the headlines themselves are quite verbose, so apart from a few comments of my own, I'll just summarize the best transgression/observance examples in 2-2 sentences. As a personal -- and humorous? -- side-challenge, I've tried to stick to this 2-sentence limit explicitly. It turned into a few semicolons, but technically it worked! So; get; ready; for; semicolons!
 
-More good news is that after the [Foreword](#foreword), the laws themselves are quite self-contained and can be read at any pace (or even in any order), so don't be alarmed by the length of the post... And for a quick jump, here are the numbers from 1 to 48:
-
+More good news is that after the [Foreword](#foreword), the laws themselves are quite self-contained and can be read at any pace (or even in any order), so don't be alarmed by the length of the post... And for quicker accessibility, here are the numbers from 1 to 48:
 
 [#1](#1) &bull; [#2](#2) &bull; [#3](#3) &bull; [#4](#4) &bull; [#5](#5) &bull; [#6](#6) &bull; [#7](#7) &bull; [#8](#8) &bull; [#9](#9) &bull; [#10](#10) &bull; [#11](#11) &bull; [#12](#12) &bull; [#13](#13) &bull; [#14](#14) &bull; [#15](#15) &bull; [#16](#16) &bull; [#17](#17) &bull; [#18](#18) &bull; [#19](#19) &bull; [#20](#20) &bull; [#21](#21) &bull; [#22](#22) &bull; [#23](#23) &bull; [#24](#24) &bull; [#25](#25) &bull; [#26](#26) &bull; [#27](#27) &bull; [#28](#28) &bull; [#29](#29) &bull; [#30](#30) &bull; [#31](#31) &bull; [#32](#32) &bull; [#33](#33) &bull; [#34](#34) &bull; [#35](#35) &bull; [#36](#36) &bull; [#37](#37) &bull; [#38](#38) &bull; [#39](#39) &bull; [#40](#40) &bull; [#41](#41) &bull; [#42](#42) &bull; [#43](#43) &bull; [#44](#44) &bull; [#45](#45) &bull; [#46](#46) &bull; [#47](#47) &bull; [#48](#48)
-
 
 One more note before we start: the distinction between certain laws is often very weak and superficial. The point is not necessarily the arbitrary structure imposed on us by the author, but the lessons the chapters teach. And the lessons are useful, so let's get to work!
 
@@ -54,19 +52,19 @@ Many people say they don't care about all this power-chasing. Now, either they a
 
 The others -- who are supposedly not playing this game -- are in fact just playing *like* that; even if they themselves aren't aware of it! Appearing weak can also lead to strength. Demanding equality can also mean that we want to be the ones to redistribute power. Being completely honest can also be just part of a strong persuasion strategy. Appearing naïve can hide an ulterior motive.
 
-So if all this is inevitable, let's learn the rules and grab the power, lest we leave it for someone else wouldn't use it "properly", right?
+So if all this is inevitable, let's learn the rules and grab the power, lest we leave it for someone else who wouldn't use it "properly", right?
 
-Prerequisites, which all further laws depend on, and which all should be developed over time:
+Prerequisite skills, which all further laws depend on, and which all should be developed over time:
 
-- control of emotions &#8658; to think clearly
-- looking ahead &#8658; preparing for potential trouble instead of daydreaming
-- looking back &#8658; self-development through personal or external experiences instead of regret or nostalgia
-- disguise and deception &#8658; to be able to perceive cheating as an artform
-- patience &#8658; to be the shield next to the "sword" of deception
-- a playful attitude &#8658; to realize that intentions and value judgments don't matter, only circumstances
-- time and energy management &#8658; to always know the cost, and whether it is worth it
-- people skills &#8658; to be able to manipulate
-- indirection &#8658; to never take a straight path to our goal!
+- Control of emotions &#8658; to think clearly,
+- Looking ahead &#8658; preparing for potential trouble instead of daydreaming,
+- Looking back &#8658; self-development through personal or external experiences instead of regret or nostalgia,
+- Disguise and deception &#8658; to be able to perceive cheating as an artform,
+- Patience &#8658; to be the shield next to the "sword" of deception,
+- A playful attitude &#8658; to realize that intentions and value judgments don't matter, only circumstances,
+- Time and energy management &#8658; to always know the cost, and whether it is worth it,
+- People skills &#8658; to be able to manipulate,
+- Indirection &#8658; to never take a straight path to our goal!
 
 And with all this in mind, let's take a look at the Greene's 48 laws:
 
@@ -81,9 +79,9 @@ And with all this in mind, let's take a look at the Greene's 48 laws:
 
 ## <a name="1"></a>**#1** -- Never outshine the master
 
-**Transgression**: the finance minister of Louis XIV gave such a wonderful soiree (to impress the king) that he actually ended up offending the king. He was arrested on trumped-up charges the very next day and spent the rest of his life in prison.
+**Transgression**: The finance minister of Louis XIV gave such a wonderful dinner party (to impress the king) that he actually ended up offending the king. He was arrested on trumped-up charges the very next day and spent the rest of his life in prison.
 
-**Observance**: leaving all his other sponsors behind, Galileo dedicated a great discovery to the Medici family, putting them in the spotlight instead of the discovery (or himself). He soon became a well-paid court philosopher.
+**Observance**: Leaving all his other sponsors behind, Galileo dedicated a great discovery to the Medici family, putting them in the spotlight instead of the discovery (or himself). As a result, he soon became a well-paid court philosopher.
 
 <br>
 
@@ -97,9 +95,9 @@ And with all this in mind, let's take a look at the Greene's 48 laws:
 
 ## <a name="3"></a>**#3** -- Conceal your intentions
 
-**Transgression**: An inexperienced gentleman took lessons from one of the greatest womanizers of his time on how to win the lady of his heart. And the methods worked -- until the idiot prematurely revealed his true intentions, blowing any chance he might've had.
+**Transgression**: An inexperienced gentleman took lessons from one of the greatest womanizers of his time on how to seduce his chosen lady. And the methods worked -- until the idiot prematurely revealed his true intentions, blowing any chance he might've had.
 
-**Observance**: Despite his heartfelt desire for war against Austria, Bismarck urged his peers to make peace, because he saw that their army was not strong enough. In doing so, he got on the good side of the pro-peace king, who made him a minister; from which position he could later force his war, only now it could be to his liking.
+**Observance**: Despite his heartfelt desire for war against Austria, Bismarck urged his peers to make peace, because he saw that their army was not yet strong enough. In doing so, he got on the good side of the pro-peace king, who made him a minister; from which position he could later force his war, only now it could be to his liking.
 
 <br>
 
@@ -107,7 +105,7 @@ And with all this in mind, let's take a look at the Greene's 48 laws:
 
 **Transgression**: Coriolanus was a legendary warlord, but as a politician, he was simply unable to shut the fuck up (despite his very unpopular views). The gap between his heroic legend and his obnoxious reality was something that no one could stomach for long, so he was soon exiled (which was already a step up from the death penalty).
 
-**Observance**: Louis XIV typically responded to the lengthy arguments of his ministers by saying "I shall see"; and they never heard from him again on the matter, only saw the result of his decision. By remaining silent (deliberately, by training himself to be silent), no one could "just" tell him what he wanted to hear, for no one knew what he wanted to hear.
+**Observance**: Louis XIV typically responded to the lengthy arguments of his ministers by saying "I shall see"; and they never heard from him again on the matter, only saw the results of his decision. By remaining silent (deliberately, by training himself to be silent), no one could "just" tell him what he wanted to hear, for no one *knew* what he wanted to hear.
 
 <br>
 
@@ -115,9 +113,9 @@ And with all this in mind, let's take a look at the Greene's 48 laws:
 
 **Observance**: Chuko Liang, the greatest military strategist of his time, still somehow found himself trapped in a city with only a few hundred men against an army of 150,000; whereupon he decided to simply sit on the city wall alone with a lute and sing. Because of his reputation, the enemy commander thought it was an ambush, so they retreated instead to be safe.
 
-**Observance 2**: (well, well, there aren't always negative examples) P.T. Barnum, who, when told that his lack of reputation was the reason he didn't get a deal, immediately went rogue to destroy his opponent's reputation; thereby making himself seem like a better alternative. Later, when he *did* have a reputation, he could use it to parody his opponents, messing with them once again.
+**Observance 2**: P.T. Barnum, who, when told that his lack of reputation was the reason he didn't get a deal, immediately went underground to destroy his opponent's reputation; thereby making himself seem like a better alternative in comparison. Later, when he *did* have a reputation already, he used it to parody his opponents, messing with them once again.
 
-**Note**: Like it or not, we will have some sort of reputation anyway. If we don't give a fuck about it, we'll only be known for not giving a fuck about it... So if it's inevitable, it should be us who control the world's image of us rather than the world!
+**Note**: Like it or not, we will have some sort of reputation anyway. Not giving a fuck about it doesn't make it go away -- it only means that we'll be known as someone who doesn't give a fuck about reputation. So if it's inevitable, shouldn't it be us who control the world's image of us rather than the world?
 
 <br>
 
@@ -131,7 +129,7 @@ And with all this in mind, let's take a look at the Greene's 48 laws:
 
 ## <a name="7"></a>**#7** -- Get others to do the work for you, but always take the credit
 
-The observance and the transgression sections can be merged together here, because the story is the same; the distinction just depends on whose point of view you are looking at it from. On one side is **Nicola Tesla**, responsible for a number of significant discoveries that should have made him a millionaire at the very least. But he wanted to achieve everything on his own, and was so focused on science that he didn't bother with the business side of his research at all.
+The observance and the transgression sections can be merged together here, because the story is the same; the distinction just depends on whose point of view you're looking at it from. On one side is **Nicola Tesla**, responsible for a number of significant discoveries that should have made him a millionaire at the very least. But he wanted to achieve everything on his own, and was so focused on science that he didn't bother with the business side of his research at all.
 
 On the other side is **Thomas Edison** (among others), who was much more concerned with who got the credit, the glory and, not least, the money. He delegated what he could, and was not "ashamed" to steal from others when he could. Was what he did moral? No. Was he the more brilliant of the two? Also no. But, unlike Tesla, did he become rich and successful? You bet.
 
@@ -139,7 +137,7 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 ## <a name="8"></a>**#8** -- Make other people come to you -- use bait if necessary
 
-**Transgression**: Napoleon escaped from exile on Elba under the influence (and with the help) of others to take back power. He continued playing the aggressor, his strength soon ran out, and after his second great defeat he was "permanently" eliminated.
+**Transgression**: Napoleon escaped from exile on Elba under the influence (and with the help) of others to take back power. He continued playing the aggressor, his strength soon ran out, and after his second great defeat, he was "permanently" eliminated.
 
 **Observance**: Napoleon's former adviser organized the above "escape" behind the scenes and *let* Napoleon come back to power. He expected what Napoleon would do afterwards, saw that he would be weak, and knew that he could then be dealt with for good.
 
@@ -147,7 +145,7 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 ## <a name="9"></a>**#9** -- Win through your actions, never through argument
 
-**Transgression**: A Roman consul needed a battering ram during a siege, so he sent for a larg mast as material. The engineer -- who knew that a smaller mast would have actually been better suited to this specific task -- argued his case until he was literally beaten to death.
+**Transgression**: A Roman consul needed a battering ram during a siege, so he sent for a large mast as material. The engineer in charge -- who knew that a smaller mast would have actually been better suited to this specific task -- argued his case until he was literally beaten to death.
 
 **Observance**: Michelangelo was making a sculpture for a client with a very "sophisticated sense of beauty" (read: a very insultingly meddlesome temper). When the client remarked (because of the bad viewing angle) that "the nose is a bit big", instead of arguing, Michelangelo lead him to a better viewing position, pretended to "adjust it", and lo and behold, it was instantly fine.
 
@@ -163,17 +161,17 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 ## <a name="11"></a>**#11** -- Learn to keep people dependent on you
 
-**Transgression**: The greatest mercenaries of the Italian Renaissance grew in power and influence through their actions until they were unexpectedly beheaded. There were simply too many alternatives available; and if there alternatives who can do the same thing cheaper while posing less of a threat to the powerful... Well, then there's not much need to worry about retirement.
+**Transgression**: The greatest mercenaries of the Italian Renaissance grew in power and influence through their actions until they were unexpectedly beheaded. There were simply too many alternatives available; and if there are alternatives who can do the same thing cheaper, while also posing less of a threat to the powerful... Well, then there's not much need to worry about retirement.
 
-**Observance**: Instead of joining one of the already strong political parties, Bismarck went straight for the weak king (and later the new king). No one in the strong party would have depended on him and he would've been "eaten up"; instead, he made the king strong, thereby also making himself indispensable, and soon grabbing the real control.
+**Observance**: Instead of joining one of the already strong political parties, Bismarck went straight for the weak king (and later the new king). No one in the strong party would have depended on him and he would've been "eaten up"; instead, he made the king strong, thereby also making himself indispensable, and soon grabbing real control.
 
-**Note**: Independence is very rarely compatible with power, and even then only at great cost. We should accept that we live in a society, fit in, make ourselves indispensable, and so instead of independence, we gain power by having others depend on us!b
+**Note**: Independence is very rarely compatible with power, and even then only at great cost. We should accept that we live in a society, fit in, make ourselves indispensable, and so instead of independence, we gain power by having others depend on us!
 
 <br>
 
 ## <a name="12"></a>**#12** -- Use selective honesty and generosity to disarm your victim
 
-**Observance**: Victor Lustig borrowed from Al Capone himself, promising to double the money in 60 days; but the Mafia boss, expecting a trick, was prepared for zero as well. What he was *not* prepared for was getting the original amount back from the "financially troubled" conman 60 days later, amidst a flurry of apologies; and the apparent honesty was so touching that he willingly gave him a share of the money -- which was Victor's real purpose from the start.
+**Observance**: Victor Lustig borrowed from Al Capone himself, promising to double the money in 60 days; but the Mafia boss, expecting a trick, was preparing the punishment for the zero returns option as well. What he was *not* prepared for was getting the original amount back from the "financially troubled" conman 60 days later, amidst a flurry of apologies; and the apparent honesty was so touching that he willingly gave him a share of the money -- which was Victor's real purpose from the start.
 
 **Note**: The above was the "official" example in the book, but I think the Trojan Horse mentioned at the end of the chapter is even more illustrative. Seem like you're giving, so that you can then take unabashedly.
 
@@ -181,7 +179,7 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 ## <a name="13"></a>**#13** -- When asking for help, appeal to people's self-interest, never to their mercy or gratitude
 
-**Transgression**: The Poggio family turned against Prince Castruccio, and incited a rebellion in his absence; until the eldest member of the family cooled the tension and put things in order. On Castruccio's return, the old man went to make peace with the prince, where he tried rely on his "tidying up" and older favors; but within days, the whole family was executed.
+**Transgression**: The Poggio family turned against Prince Castruccio, and incited a rebellion in his absence; until the eldest member of the family cooled the tension and put things in order. On Castruccio's return, the old man went to make peace with the prince, where he tried to rely on his "tidying up" and older favors; but within days, the whole family was executed.
 
 **Observance**: With the conflict between Corfu and Carthage brewing, both went to Athens to seek support, where Carthage appealed to their current alliance and the many benefits it provided in the past. Corfu, on the other hand, openly accepted that they had no past or present, but could offer a fleet of ships in the future that would be good for Athens; and Athens preferred the latter appeal overwhelmingly.
 
@@ -191,7 +189,7 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 **Observance**: A successful art dealer, with some extra information gained through his spies, was even able to "win over" a client who considered him unsympathetic by default. I'm so good that I managed to sum that up in a single sentence, so here's a second.
 
-**Note**: Good metaphors at the end of the chapter too: the extra intel makes it like having 3 eyes to everyone else's 2. And the advice is also useful in the other direction: if we drop false intel from time to time, the enemy will only have one eye.
+**Note**: Good metaphors at the end of the chapter too: extra intel it like having 3 eyes to everyone else's 2. And the advice is also useful in the other direction: if we drop false intel from time to time, the enemy will only have one eye.
 
 <br>
 
@@ -209,13 +207,13 @@ On the other side is **Thomas Edison** (among others), who was much more concern
 
 **Who complied intentionally**: As a famous judge, Deioces realized that his excessive accessibility meant he was not appreciated as much as he should have been. After his retirement and absence, the *people* begged *him* to be their ruler; and under his reclusive and inaccessible rule, his legend only grew.
 
-**Note**: Just think how our "relationship" with a dead person changes! Our minds amplify the good things, suppress the bad, we regret our disputes, and we practically form an aura around them... Now, for this kind of effect, no one has to actually die. If stay away deliberately, the return will only be that much warmer.
+**Note**: Just think of how our "relationship" with a dead person changes! Our minds amplify the good things, suppress the bad, we regret our disputes, and we practically form an aura around them... Now, for this kind of effect, no one has to actually die. If we stay away deliberately from time to time, the return will only be that much sweeter.
 
 <br>
 
 ## <a name="17"></a>**#17** -- Keep others in suspended terror: cultivate an air of unpredictability
 
-**Observance**: Boris Spassky just wanted to get his world title fight against Bobby Fischer over with at all costs, because everything pointed to him being favored. Fischer, however, realized that Spassky had figured him out, so he so messed up his strategy so much (through tantrums, delays, deliberate blunders, or even outright throws) that he ended up winning by "psychological knockout".
+**Observance**: Boris Spassky just wanted to get his world title fight against Bobby Fischer over with at all costs, because everything pointed to him being favored. Fischer, however, realized that Spassky had figured him out, so he messed up his own strategy so much (through tantrums, delays, deliberate blunders, or even outright throws) that he ended up winning by "psychological knockout".
 
 <br>
 
@@ -244,7 +242,7 @@ In this chapter there are only "violations" against different types of people:
 
 ## <a name="20"></a>**#20** -- Do not commit to anyone
 
-**Observance**: After Queen Elizabeth I ascended the throne, the first thing on everyone's mind was to find her a husband, but she, learning from her cousin's mistakes, didn't want any of that. She strung along many prospects instead of making a commitment, so she was able to establish good diplomatic relations and still remain independent.
+**Observance**: After Queen Elizabeth I ascended the throne, the first thing on everyone's mind was to find her a husband, but she, learning from her cousin's mistake, didn't want any of that. She strung along many prospects instead of making a commitment, so she was able to establish good diplomatic relations and still remain independent.
 
 **Observance 2**: Isabella d'Este tried to preserve the autonomy of little Mantua by keeping on good terms with all the many potential vultures, but not committing herself to any of them. During her reign, much happened in the area (popes came and went; Cesare Borgia rose and fell; Venice, Milan, Florence, and Rome all fared badly), but Mantua remained independent and prospered.
 
@@ -260,7 +258,7 @@ In this chapter there are only "violations" against different types of people:
 
 **Transgression**: When the island of Melos came next in the conquest queue, Athens tried negotiation first (which they absolutely didn't need to, considering their numbers). Melos however, citing loyalty and honor instead of being reasonable, stuck with Sparta; and after the massacre and deportation, its population was completely replaced.
 
-**Observance**: Bertold Brecht and 18 other "communist" writers were summoned before a committee for questioning over their doctrines. Brecht (in the face of open defiance from the others) feigned surrender to the authority of the committee, cleverly explained himself, and got away with it without any further action.
+**Observance**: Bertold Brecht and 18 other "communist" writers were summoned before a committee for questioning over their politics. Brecht (in the face of open defiance from the others) feigned surrender to the authority of the committee, cleverly explained himself, and got away with it without any further action.
 
 And a wonderful quote that sums this law up nicely:
 
@@ -274,15 +272,15 @@ And a wonderful quote that sums this law up nicely:
 
 **Transgression**: The ruler of Wu engaged the Middle Kingdom in a battle for glory, but was so weakened in the process that he was later defeated on another front. The example could be the Athenian or Roman empires as well; if you spread yourself too thin, you will eventually collapse under your own weight.
 
-**Observance**: The Rothchild family, holding on to the values they brought from the ghetto, resisted dissension at all costs. They stuck so close together that they even arranged marriages within the family; which is *yuck* on one hand, but on the other, look where they are today, financially and power-wise...
+**Observance**: The Rothchild family, holding on to the values they brought from the ghetto, resisted dissension at all costs. They stuck so close together that they even arranged marriages within the family; which is *yuck* on one hand, true, but on the other hand, look where they are today, financially and power-wise...
 
 <br>
 
 ## <a name="24"></a>**#24** -- Play the perfect courtier
 
-**Note**: This can almost be considered a summary chapter marking the halfway point (indeed, we're only halfway through), where we first gather the basics of good courtly behavior, and then cite to some examples. I will highlight just a few of these:
+**Note**: This can almost be considered a summary chapter marking the halfway point (indeed, we're only halfway through), where we first gather the basics of good courtly behavior, and then cite some examples.
 
-**Transgression**: Alexander the Great complained to his mentor Aristotle that he had no one to philosophize with during the campaigns, so Aristotle sent him one of his promising students to work alongside him. Callisthenes had studied courtly etiquette, but he despised it, saying that pure, honest philosophy was worth much more; and of course he kept on running his big mouth until Alexander the Great finally had him executed.
+**Transgression**: Alexander the Great complained to his mentor Aristotle that he had no one to philosophize with during the campaigns, so Aristotle sent him one of his promising students to work alongside him. Callisthenes had studied courtly etiquette, but he despised it, saying that pure, honest philosophy was worth much more; and he, of course, kept on running his big mouth until Alexander the Great finally had him executed.
 
 **Observance**: Jules Mansart, a French architect, was aware that his social skills were as much an asset as his knowledge and talent. So he often made deliberate mistakes in his designs, so that the king could "correct" them and he could fix them while praising His Majesty's astuteness; thus he became court architect.
 
@@ -298,7 +296,7 @@ And a wonderful quote that sums this law up nicely:
 
 ## <a name="26"></a>**#26** -- Keep your hands clean
 
-**Observance**: Cesare Borgia knew that the only way to clean up a lawless region was to do it brutally; which is hard to do with clean hands. So he entrusted a brutal man with the task, and when he had succeeded in cleaning up the mess (and was duly hated for his brutality), he had him executed as a savior.
+**Observance**: Cesare Borgia knew that the only way to clean up a lawless region was to do it brutally; which is hard to accomplish with clean hands. So he entrusted a brutal man with the task, and when he had succeeded in cleaning up the mess (and was duly hated for his brutality), Cesare had him executed as a savior.
 
 **Observance 2**: Cleopatra, learning from her sister's mistake, knew that she could not publicly compete with his remaining brothers for power, because then people would probably rebel against her, too. Instead, she wrapped Julius Caesar around her finger and manipulated him into doing her dirty work for her.
 
@@ -316,13 +314,13 @@ Here, the book covers the 5 simple steps to building a cult, which I think is so
 
 4. Always **hide** the fact that your money and power actually comes from the pockets of the "believers"! Show that it is following your teachings that leads you here, so that they will follow you all the more enthusiastically.
 
-5. Find a common enemy (or if there isn't one, invent it) to unite your followers against!
+5. Find a common enemy (or if there isn't one, invent it yourself) to unite your followers against!
 
 And then, of course, there are a few examples of people who have used this strategy effectively:
 
-**Observance**: A 27 year old man from Milan was so changed after a "vision" and so eager to tell everyone about the Philosopher's Stone (which he would soon discover) that people couldn't help but believe him. He divided his followers into 6 levels by "seeing into the spirit", who had to then give him almost everything they had because of their vow of poverty; so we can say that, at least for himself, he really did find the Philosopher's Stone.
+**Observance**: A 27 year old man from Milan was so changed after a "vision" and so eager to tell everyone about the Philosopher's Stone (which he would soon discover) that people couldn't help but believe him. He divided his followers into 6 tiers by "seeing into the spirit", who had to then give him almost everything they had because of their vow of poverty; so we can say that, at least for himself, he really did find the Philosopher's Stone.
 
-**Observance 2**: When Franz Mesmer tried to promote his animal "magnetism" theories scientifically, he was practically laughed out of Vienna; so he moved to Paris and abandoned the scientific part altogether.
+**Observance 2**: When Franz Mesmer tried to promote his animal "magnetism" theories scientifically, he was practically laughed out of Vienna; so he moved to Paris and abandoned the scientific pretense altogether.
 He rose to power and popularity by theatricality, color, scent, group hysteria, and the exploitation of latent sexuality; success with the same ridiculous hocus-pocus.
 
 <br>
@@ -331,7 +329,7 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 **Observance**: Victor Lustig not only started boldly (selling the Eiffel Tower to a metal dealer), but when his target started to suspect him, instead of backing down, he even asked for a bribe! What he did was simply so brazenly large-scale that it didn't look like a scam.
 
-**Observance 2**: Pietro Aretino (a young nobody who wanted to be a writer) launched his career with the "David vs Goliath" tactic. In his first satirical piece (which we would probably call a "Roast" today), he mocked the cardinals and the Pope himself; and it got him a job from the Pope.
+**Observance 2**: Pietro Aretino (a young nobody who wanted to be a writer) launched his career with the "David vs. Goliath" tactic. In his first satirical piece (which we would probably call a "Roast" today), he mocked the cardinals and the Pope himself; and it got him a job from the Pope.
 
 <br>
 
@@ -369,7 +367,7 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 **Observance**: The first thing Richelieu exploited on his way to power was how controllable the King's mother became when bathed in compliments and male attention. This later gave him access to the king, where he could then exploit the king's childlike naïveté -- herding him into situations where he increasingly needed his advice.
 
-**Observance 2**: Arabella Huntington, the newly rich wife rumored to be a gold-digger, only wanted to be treated as an equal within high society. Joseph Duveen took advantage of this by "softening" her for years through VIP treatment, all the while quietly shaping her taste so that after her husband's death she would buy nice and expensive paintings from him.
+**Observance 2**: Arabella Huntington, the newly rich wife rumored to be a gold-digger, only wanted to be treated as an equal within high society. Joseph Duveen took advantage of this by "buttering her up" for years through VIP treatment, all the while quietly shaping her taste so that after her husband's death she would buy nice and expensive paintings from him.
 
 <br>
 
@@ -389,25 +387,25 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## <a name="36"></a>**#36** -- Disdain things you cannot have: ignoring them is the best revenge
 
-**Transgression**: When a bandit named Pancho Villa moved on from Mexico to raiding American territories, President Woodrow Wilson wanted to punish him in a massive show of force. Not only did this fail, but thanks to all the hype, they were also pretty badly embarrassed in the process.
+**Transgression**: When a bandit named Pancho Villa moved on from Mexico to raiding American territories, President Woodrow Wilson wanted to punish him in a massive show of force. Not only did this fail, but thanks to all the hype around the mission, the Americans were also pretty badly embarrassed in the process.
 
-**Observance**: His admirers nominated "George Sand" as an Academy member; who, as we know, was actually a woman writing under a pseudonym, and as such, she was all but guaranteed to be dismissed. Instead of lamenting the fact (or even admitting that she cared), she declared that the Academy was a collection of old men anyway, and who wants to join them anyway!
+**Observance**: His admirers nominated "George Sand" as an Academy member; who, as we know, was actually a woman writing under a pseudonym, and as such, she was all but guaranteed to be dismissed. Instead of lamenting the fact (or even admitting that she cared), she declared that the Academy was a collection of dusty old men, and who wants to join them anyway!
 
 <br>
 
 ## <a name="37"></a>**#37** -- Create compelling spectacles
 
-**Note**: This law strongly resembles the cult one ([#27](#27)). Not that we aren't swimming in similarities all over the place, but here it's really almost the same point, only this time we're focusing on how visuals, symbols, and theatrical gestures help us achieve the same. Words can be misinterpreted, but visual communication is a way of messing with people's feelings *directly*, so we shouldn't neglect it!
+**Note**: This law strongly resembles the cult one ([#27](#27)). Not that we aren't swimming in similarities all over the place, but here it's really almost the same point, only this time we're focusing on how visuals, symbols, and theatrical gestures help us achieve it. Words can be misinterpreted, but visual communication is a way of messing with people's feelings *directly*, so we shouldn't neglect it!
 
-**Observance**: As mistress of Henry II, Diane de Poitiers was in a very privileged position; but the twenty-year age difference was not to her advantage. Nevertheless, with symbolic connections (Greek goddess Diane, virginity, hunting), logos (her and the king's initials intertwined), and other such "showmanship", she managed to completely sweep the king off his feet.
+**Observance**: As mistress of Henry II, Diane de Poitiers was in a very privileged position; but the twenty-year age difference was definitely *not* to her advantage. Nevertheless, with symbolic connections (Greek goddess Diane, virginity, hunting), logos (her and the king's initials intertwined), and other such "showmanship", she managed to completely sweep the king off his feet for far longer than it should have been possible.
 
 <br>
 
 ## <a name="38"></a>**#38** -- Think as you like but behave like others
 
-**Transgression**: During his battle against the Persians, the Greek general Pausanias became so enamoured of their culture that he began to behave in an increasingly eccentric manner (in the eyes of the Greeks, at least). The change in his tastes would not have been a problem in itself, but because it made him look down on all his countrymen in a completely open way, he was gradually ostracized...
+**Transgression**: During his battle against the Persians, the Greek general Pausanias became so enamored with their culture that he began to behave in an increasingly eccentric manner (in the eyes of the Greeks, at least). The change in his tastes would not have been a problem in itself, but because it made him look down on all his countrymen in a completely open way, he was gradually ostracized...
 
-**Observance**: Campanella was imprisoned and tortured for his atheistic views; until he learned that maybe he shouldn't spit so openly and directly in the face of the majority. After his release, he proceeded to write a book in which, although ostensibly arguing against atheism, he made atheism look better; he could not be punished for it this way, but those who needed to understand the underlying content could still understand it.
+**Observance**: Campanella was imprisoned and tortured for his atheistic views; until he learned that maybe he shouldn't spit so openly and directly in the face of the majority. After his release, he proceeded to write a book in which, although ostensibly arguing against atheism, he made atheism look like the better alternative; he could not be punished for it this way, but those who needed to understand the underlying message could still understand it.
 
 <br>
 
@@ -417,15 +415,15 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 **Transgression**: When Napoleon found out that his two most important ministers (Talleyrand and Fouché) were conspiring behind his back, he threw a childish tantrum in front of everyone. Talleyrand took the onslaught with bored indifference; thus scoring a social victory of sorts over the unhinged Napoleon.
 
-**Observance**: Haile Selassie knew that an opponent posing as a loyal subject was plotting against him, so he chose not to wait until his preparations were ready. He baited him into a (hasty) rebellion instead that he knew he could control, and being able to play by his own rules, he won easily.
+**Observance**: Haile Selassie knew that an opponent posing as a loyal subject was plotting against him, so he chose not to wait until the preparations were ready. He baited his rival into a (hasty) rebellion instead that he knew he could control, and being able to play by his own rules, he won easily.
 
 <br>
 
 ## <a name="40"></a>**#40** -- Despise the free lunch
 
-**Transgression**: The Spaniards had no shortage of gold flowing to them after the conquest of Peru, but they didn't use it for useful purposes, of course, but for further expeditions for more free gold. The legend of El Dorado beautifully symbolizes the attitude that eventually led to their complete destruction (figuratively for the country, literally for the explorers).
+**Transgression**: The Spaniards had no shortage of gold flowing to them after the conquest of Peru, but they didn't use it for useful purposes, of course, only for further expeditions for more free gold. The legend of El Dorado beautifully symbolizes the attitude that eventually led to their complete destruction (figuratively for the country, literally for the explorers).
 
-**Observance**: It was only after James Rothschild had become rich that the real challenge came: money and status had to be accompanied by social acceptance, because without it, neither money nor status would have longevity. So he gave weekly lavish dinners to demonstrate that he valued French culture even more than money, and in doing so he finally won the support he could not have obtained with "raw money".
+**Observance**: It was only after James Rothschild had become rich that the real challenge began: money and status had to be accompanied by social acceptance, because without it, neither money nor status would stay for long. So he gave weekly lavish dinners to demonstrate that he valued French culture even more than money, and in doing so he finally won the support he could not have obtained with "raw money" alone.
 
 <br>
 
@@ -439,7 +437,7 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## <a name="42"></a>**#42** -- Strike the shepherd and the sheep will scatter
 
-**Observance**: One of the pillars of Athenian democracy was the ability to deal with "undesirable elements" firmly but without violence. That's why they used annual tile votes to hand out 10 years of exile to those who they suspected would cause a larger shitstorm down the line.
+**Observance**: One of the pillars of Athenian democracy was the ability to deal with "undesirable elements" firmly but without violence. That's why they used annual tile votes to hand out 10 years of exile to those who they suspected would be capable of causing a larger shitstorm down the line.
 
 **Observance 2**: Pope Boniface VIII saw that the "backbone" of the Florentine class fighting against his influence was Dante Alighieri (yes, the Divine Comedy dude). So, in a ruse disguised as a peace treaty, he called Dante away from Florence to keep him in Rome until the situation there inevitably collapsed without him.
 
@@ -447,7 +445,7 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## <a name="43"></a>**#43** -- Work on the hearts and minds of others
 
-**Transgression**: During Marie-Antoinette's reign, she did nothing but attend to her own needs and pleasures, which gradually earned her the hatred of the people. Even then she would have had a chance to repent after being driven out of their chateau, but she continued to not give a fuck; right up to her execution.
+**Transgression**: During Marie-Antoinette's reign, she did nothing but attend to her own needs and pleasures, which gradually earned her the hatred of the people. Even then she would have had a chance to repent after being driven out of their mansion, but she continued to not give a fuck; right up to her execution.
 
 **Observance**: Chuko Liang, at the head of a much stronger army, could have chosen to brutally suppress the southern rebellions, but he also considered the distant future (where his brutality would only breed new enemies). So he preferred to capture and pardon the enemy (thus appealing to their feelings) until the rival warlord became one of his most loyal supporters.
 
@@ -457,13 +455,13 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 **Observance**: Alcibiades realized early on that few people could be convinced through argument, while many more could be straight up alienated -- so he perfected his ability to mimic the other side's tastes. It was a skill that endeared him to Athenian, Spartan and even Persian circles.
 
-**Observance 2**: Many of Joseph Weil's hoaxes were based on showing his victims a mirage of reality. If all was apparently well in a "bank", for example (i.e., an abandoned bank building with some decorations), no one had any trouble "depositing" large sums of money.
+**Observance 2**: Many of Joseph Weil's hoaxes were based on showing his victims a mirage of reality. If all was apparently well in a "bank", for example (i.e., an abandoned bank building with some decorations), no one had any concerns about "depositing" large sums of money.
 
 <br>
 
 ## <a name="45"></a>**#45** -- Preach the need for change, but never reform too much at once
 
-**Transgression**: Thomas Cromwell's plan wasn't wrong from the perspective of power (converting England to Protestant doctrines while the old Catholic wealth would inadvertently fall right into the hands of the Crown), but *how* he implemented it sure was. He took an extreme change and then tried to shove it down people's throats so fast that, however secure his position at court may have seemed, he ended up paying with his head.
+**Transgression**: Thomas Cromwell's plan wasn't wrong from the perspective of power (converting England to Protestant doctrines while the old Catholic wealth would "inadvertently" fall right into the hands of the Crown), but *how* he implemented it sure was. He took an extreme change and then tried to shove it down people's throats so quickly that, however secure his position at court may have seemed, he ended up paying with his head.
 
 **Observance**: Mao Zedong was well aware of the hopelessness of bringing about significant change in the lives of perhaps the most deeply traditional people. He therefore did his utmost to tie communism (and his own "brand") to the glorious events and values of the past as closely as possible, thus creating the appearance of gradual change.
 
@@ -471,7 +469,7 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## <a name="46"></a>**#46** -- Never appear too perfect
 
-**Transgression**: Joe Orton and Kenneth Halliwell tried to "make it" together, but only Orton succeeded. Unfortunately, he didn't notice his partner's envy, didn't even try to downplay his superiority, and also didn't leave him; he ended up being perfect right up until Halliwell beat him to death with a hammer.
+**Transgression**: Joe Orton and Kenneth Halliwell tried to "make it" together, but only Orton succeeded. Unfortunately, he didn't notice his partner's envy, didn't even try to downplay his superiority, but didn't leave him either; he ended up being perfect right up until Halliwell beat him to death with a hammer.
 
 **Observance**: Learning from the downfall of other powerful families, Cosimo de' Medici did his best to disguise his wealth and influence. He ran everything through others, never politicized in public, avoided luxury, was deferential to those "above him"... and still had all the power in the background.
 
@@ -479,21 +477,21 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## <a name="47"></a>**#47** -- Do not go past the mark you aimed for; in victory, learn when to stop
 
-**Transgression**: Cyrus achieve victory after victory during the expansion of the Persian Empire, but there was always at least one more territory to conquer. It was enough to miscalculate just one, and after his bloody defeat, everything he had built up to that point fell apart.
+**Transgression**: Cyrus achieved victory after victory during the expansion of the Persian Empire, but there was always at least one more territory to conquer. It was enough to miscalculate just one, and after his bloody defeat, everything he had built up to that point fell apart.
 
-**Observance**: Louis XV changed his official mistresses quite often, something that wasn't lost on Madame de Pompadour. She did not, therefore, fight tooth and nail to stay on after she had grown old, but deliberately took a step backwards; and this "voluntary yielding" gave her the opportunity to keep many other threads in hand.
+**Observance**: Louis XV changed his official mistresses quite often, something that wasn't lost on Madame de Pompadour. She did not, therefore, fight tooth and nail to stay on after she had grown old, but deliberately took a step back; and this "voluntary yielding" gave her the opportunity to keep many other threads in hand.
 
 <br>
 
 ## <a name="48"></a>**#48** -- Assume formlessness
 
-**Transgression**: Sparta had trained itself to be too one-sided and rigid with its military ethos, so the it couldn't handle the influx of money and new responsibilities after defeating Athens. And because it wasn't used to getting used to new things, it slowly crumbled.
+**Transgression**: Sparta had trained itself to be too one-sided and rigid with its military ethos, so it couldn't handle the influx of money and new responsibilities after defeating Athens. And because it wasn't used to getting used to new things, it slowly crumbled.
 
 **Observance**: As the embodiment of guerilla warfare (and the Chinese boardgame Go), Mao Zedong didn't ever let his men get face-to-face with the nationalist army that obviously outnumbered them. He stayed formless, adapted effectively to new situations... and eventually won.
 
-**Note**: An interesting insight is that in evolution, developing a suit of armor is almost always a dead end, because it locks the creature into a rigid form that becomes its weakness over time. It is much better to learn to adapt, as is shown by how the not-too-big, not-too-strong, not-too-fast, not-too-armored, and vulnerable homo sapiens has managed to subjugated every other species.
+**Note**: An interesting insight is that in evolution, developing a suit of armor is almost always a dead end, because it locks the creature into a rigid form that becomes its weakness over time. It is much better to learn to adapt, as is shown by how the not-too-big, not-too-strong, not-too-fast, not-too-armored, and vulnerable little homo sapiens has managed to subjugate every other species.
 
-**Note 2**: This also includes the fossilization of our personality (especially as we age). It may have been the correct way of thinking in the past, but it's far from certain that it still is today. Now, this doesn't mean that we should blindly follow every trend or fad... What it does mean is that we should remain open to new things and dare to adapt our world view!
+**Note 2**: This also includes the fossilization of our personality (especially as we age). It may have been the correct way of thinking in the past, but it's far from certain that it still is today. Naturally, this doesn't mean that we should blindly follow every trend or fad... What it does mean, though, is that we should remain open to new things and dare to adapt our world view!
 
 <br>
 
@@ -505,9 +503,9 @@ He rose to power and popularity by theatricality, color, scent, group hysteria, 
 
 ## Summary
 
-To sum up, I would like to echo what what we alreay discussed in the introduction: these "laws" are not here to teach us to be despicable worms! But in order to break the rules, we must first know what the rules are. And, of course, nothing is stopping others from trying to be despicable worms against us -- only they won't be so successful, hopefully, as we'll be prepared now.
+To sum up, I would simply like to echo what we've already discussed in the introduction: these "laws" are not here to teach us to be despicable worms! But in order to break the rules, we must first know what the rules are. And, of course, nothing is stopping others from trying to be despicable worms against us -- only they won't be so successful, hopefully, as we'll be prepared now.
 
-So, if some of these don't really sound like a good fit, ignore 'em. If they do fit, though, then get dressing! I for one will definitely try to A) shut my mouth a bit more often, B) argue with my actions instead of my words, C) be more mindful to my "image", and D) be bolder in my actions.
+So, if some of these don't really sound like a good fit, ignore 'em. If they do fit, though, then get dressing! I for one will definitely try to A) shut my mouth a bit more often, B) argue with my actions instead of my words, C) be more mindful of my "reputation", and D) be bolder in what I do.
 
 > Not knowing the law does not excuse anyone.
 > > Ignorantia legis neminem excusat.
