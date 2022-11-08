@@ -42,38 +42,34 @@ All the while, we discover trends, get to know ourselves better and, hopefully, 
 
 
 ## <a name="cognitive"></a>The cognitive revolution
-At its inception, Sapiens was not a big deal. Our brains were grossly large - triple the size of animals, which have since doubled - but that alone is not a guaranteed survival strategy.
 
-?
-A chimpanzee can't win a debate against a Sapiens, but it can still tear it apart...
+At the beginning, Homo Sapiens wasn't a particularly big deal. Our brains were grossly large -- triple the size of other animals already, which have since doubled -- but that alone is not a guaranteed survival strategy.
 
-The other speciality is walking on two legs, which is good for the development of our hands - and the resulting use of tools - but less so for our spines. And for women, it's especially wonderful that their pelvis is shrinking at the same time as their children's heads are growing in connection with the brain. No surprise, therefore, that we are relatively so 'premature' and that there is so much emphasis on socialising to care for helpless children.
+> A chimpanzee can't win an argument with a Homo sapiens, but the ape can rip the man apart like a rag doll.
 
-But despite all this, for 2 million years or so we have been stuck in the middle of the food chain, which even the harnessing of fire has not significantly changed. Yet 70,000 years ago, we were so keen to 'make a nuisance of ourselves' that for the next 60,000 years all other humanoid species became extinct. Some would explain this by mergers or other unrelated factors, but let's look in the mirror:
+Our other specialty is walking on two legs, which might be good for the development of our hands -- and the resulting use of tools -- but it's less fortunate for our spines. And for women, it's especially wonderful that their pelvis is shrinking just when their children's head sizes are growing along with their brains. No surprise, then, that we're born relatively "premature" and that there's so much emphasis on socializing to care for helpless children.
 
-?
-Tolerance is not a trademark of Sapiens.
+But despite all this, for 2 million years or so we've been stuck in the middle of the food chain, and even harnessing fire hasn't significantly dislodged us. Yet, something very fishy must have started around 70,000 years ago, because during the following 60,000 years, all other humanoid species became extinct. Some would explain this by mergers or other unrelated factors, but let's look in the mirror, people:
 
+> Tolerance is not a Sapiens trademark.
 
+Harari posits that our sudden diversity is due to nothing more than a "cognitive explosion": our linguistic abilities have simply outstripped their competitors over time. The greater expressive power allowed for a more precise flow of information for one, and the social "gossip" factor that held groups together also made a big difference. But the most important part was fiction -- the ability to talk about (and believe in) things that didn't actually exist!
 
-And our sudden diversity is due to nothing more than a 'cognitive explosion': Sapiens' linguistic abilities have far outstripped their competitors over time. The greater expressive power allowed for a more precise flow of information, and the social "gossip" that held groups together also made a difference. But most importantly, it was fiction - the ability to talk about - and believe in - things that didn't exist!
+The emergence of shared beliefs allowed larger and larger masses of people to work together. And we aren't necessarily talking about religion here -- just think of concepts like nationalities, laws, money, or human rights.
 
-And the emergence of shared beliefs allowed larger and larger masses of people to work together. And here we are not just thinking about religion, but about nationalities, laws, money, human rights, etc.
+> No one was lying when, in 2011, the UN demanded that the Libyan government respect the human rights of its citizens, even though the UN, Libya and human rights are all figments of our fertile imaginations.
 
-?
-Nobody was lying when the UN demanded in 2011 that the Libyan government respect the human rights of its citizens, but both the UN and Libya and 'human rights' are figments of our imagination.
+It's an interesting contrast that modernity views Druids who gather for a full moon séance as primitive idiots, without realizing that the institutions of the modern world operate on exactly the same principle. A successful businessman is actually a shaman, only he says even stranger things. Strangers could easily cooperate through imaginary myths, and this opened up a "cultural fast lane" where we could overtake those who were moving at a slow, evolutionary pace. The chimps can't just switch to democracy after unseating the current alpha male... But we can.
 
-A good example is to call the Druids who gather for a séance on the full moon a primitive idiot, without realising that the institutions of the modern world operate on exactly the same principle. And a successful businessman is actually a shaman, only he says even stranger things. Strangers could easily cooperate through imaginary myths, and this opened up a 'cultural fast lane' where we could overtake those who were moving at a slow evolutionary pace. The chimps can't unseat the alpha male and make it a democracy from here... but we can.
+<br>
 
+It's difficult to say anything concrete about the lifestyle of this era without actual evidence, but it is worth trying on some level, because underneath the thin layer of civilization, the same software is still running in our heads today. Food hoarders, for example, instinctively gorged themselves if they had the opportunity, because who knew how long it would last; no wonder we need to diet so much in the age of plenty. Family and sexuality tended to be more communal things, in an "everybody with/for everybody" kind of way; so no wonder either that we need so many psychologists in the age of monogamy.
 
+Groups of a few dozen to a few hundred enabled close cooperation, and frequent migrations were necessary for gathering. Instead of specialization, general knowledge -- and considerable physical fitness -- was needed to survive. In terms of religion, *animism* was predominant, i.e., roughly everything had a soul, there was no hierarchy in the world, and communication was free-flowing. Theories more detailed than this are mostly just introducing our own, current views into the very little evidence.
 
-It is difficult to say anything about the lifestyle of that time without concrete evidence, but it is worth trying on some level, because underneath the thin layer of civilisation, the same programme is still running in our heads today. Food hoarders, for example, instinctively gorged themselves on it if they had it, because who knew how long it would last; no wonder we diet so much in an age of plenty. Family and sexuality tended to be more communal, 'everybody with everybody'; no wonder we go to so many psychologists in the age of monogamy.
+<br>
 
-Groups of a few dozen to a few hundred were more likely to work closely together, and frequent migrations were necessary for gathering. Instead of specialisation, general knowledge - and considerable physical fitness - was needed to survive. In terms of religion, animism was predominant, i.e. roughly everything had a soul, there was no hierarchy and communication was free. Theories more detailed than this are mostly just explaining our own views into the very little evidence.
-
-
-
-Another major breakthrough of the era was that we were finally able to leave the Afro-Asian continent. First to Australia, then - via Siberia, then on foot - to the Americas, and then, one after the other, we went about everywhere, with the same scenario. Evolution has failed to keep up with us, we have upset ecosystems and driven half the flora and fauna to extinction. This was the first extermination, which we have in fact repeated with the domestication of the agricultural revolution. If more people had the sense to understand this, they might not shit so high on the third round that we are doing now.
+Another major breakthrough of the era was that we were finally able to leave the Afro-Asian continent. First we spread to Australia, then -- via Siberia, on foot -- to the Americas, and then, one after the other, we reached about every nook and cranny of the world, using the same playbook each time. Evolution failed to keep up with us, so we could upset the local ecosystems and drive half the flora and fauna to extinction. This was the first extermination, which we've already repeated since with the domestication of the agricultural revolution. If people more acutely aware of this, they might give more of a fuck about the third round, which we are performing right now.
 
 <br>
 
@@ -99,52 +95,58 @@ Another major breakthrough of the era was that we were finally able to leave the
 
 
 ## <a name="agricultural"></a>The agricultural revolution
-Hunting and gathering was 'in vogue' until about 10,000 years ago, when we started to do a lot of it with a few select plants and animals. We don't really understand the ecological context of the world today - let alone back then - but sure, let's dig in. What could go wrong?
 
-It's a common story that man, as he became more intelligent, finally conquered nature to make a better life for himself. Now, it's fair to say that, overall, there was more food available to mankind as a species. But at the same time, the average farmer worked harder and ate worse in return. So what then?!
+Hunting and gathering was 'in vogue' until about 10,000 years ago, which is when we started to focus a lot of our attention on just a few select plants and animals. We still don't really understand the ecological context of the world today -- let alone back then -- but sure, let's just mess with stuff. What could go wrong?
 
-?
-These plants domesticated the Sapiens, not the other way around.
+It's a common story that man, as he became more intelligent, finally conquered nature to make a better life for himself. To be fair, this change really did make more food available to mankind as a species. But at the same time, the average farmer worked harder and ate worse in return. Umm... What?!
 
-The negatives could go on and on: it needed a proper environment, weeding, nutrients, irrigation, and protection; it didn't make our diet better, it was bad for our physique to work with it, it didn't give us more security (in fact, it just made us more dependent on something), and it didn't give us more protection against aggression (in fact, private property just made it maybe worse). The positive was that more human specimens could exist at the same time. Period.
+> These plants domesticated Homo sapiens, rather than vice versa.
 
-Of course, individuals wouldn't have gone along with this just because it was "good" for the species. But, unfortunately for us, every step on the road to that point seemed like a good idea in itself at the time.
+The negatives could go on and on: these plants needed a proper environment, weeding, nutrients, irrigation, and protection; they didn't make our diet better in any sense; cultivating them was bad for our physique; they didn't give us more security (in fact, they just made us more dependent on something); and they didn't give us more protection against aggression either (in fact, private property just made it potentially worse). Yet the only positive we can list is that more human specimens could exist at the same time. Period.
 
-Wheat is part of the diet, so we bring it back to the camp to process ⇒ whoops, some falls off, and next year there's wheat on the trail.
-Well then why don't we just spread it where we want it? ⇒ there'll be more, but there's plenty more.
-So why don't we spend some time here every year harvesting? ⇒ there is more and more, and there is not enough time.
-So why don't we settle here permanently? ⇒ there will be more, but not much else.
-Well, why don't we save some of it, so that we can sow better ⇒ there will be more.
-Well then why don't we improve our techniques (deep sowing, weeding, tools, etc.) ⇒ there will be more.
-Well then why not have more children if there is enough food ⇒ we quickly used up the surplus and now we need more food!
-Well then let's work and build walls so that others don't take it ⇒ more work!
-By the time we realised it was a shit deal, it was:
+Of course, individuals wouldn't have gone along with this change just because it was "good" for the species. But, unfortunately for us, every step on the road to this point seemed like a good idea in itself at the time.
 
-we didn't even remember how it used to be, and
-there were too many of us to make the old way work, even if we remembered.
-Anyone who might be suspicious that we're doing the same thing now has gained a very shitty realisation: yes, we are doing the same thing now. For example, we've invented a lot of things to gain time, and then we have less time...
+- Wheat is part of our diet, so we bring it back to the camp to process &#8658; Whoops, some seeds falls off, and next year there's wheat on the trail.
 
-?
-One of the few basic rules of history is that luxury becomes necessity, which leads to new obligations.
+- Well then, why don't we just spread it where we want it? &#8658; Next year there's even more wheat, but there's still plenty of other stuff as well.
 
+- So why don't we spend some time here every year for harvesting? &#8658; There's more and more wheat, but now time becomes the bottleneck.
 
+- So why don't we settle here permanently? &#8658; There's even more wheat, but not much else now.
 
-It has also been accompanied by a psychological revolution, where 'our territory' has increasingly become 'my house' and the present has become a focus on the future. However, long-term planning did not work out well for the peasants, because there was always an elite class of people who skimmed off the surplus so that they could play politics, wage war, make art or philosophise. And for ever greater cooperation, shared myths became increasingly important. Of course, let's not forget that slavery was also included under the heading of "cooperation".
+- Well then, why don't we save some of it, so that we can sow better &#8658; There'll be more.
 
-As an example, we compare Hamurapi's column of laws with the American Declaration of Independence. Let's say that they have quite different approaches to human rights, but nevertheless both claim to contain universal, universal truths. Resolving the apparent contradiction is awkward, but simple: neither is a universal truth. Both are just stories we tell ourselves.
+- Well then, why don't we improve our techniques (deep sowing, weeding, tools, etc.) &#8658; There'll be more.
 
-But if we want people to believe in an imaginary system, let's not mention imaginary in the first place! But if we keep our mouths shut, society will help us to instil the system in newcomers. In principle, our desires and tastes are shaped by the dominant beliefs of the time (there is nothing natural about, for example, holidaying abroad). Such imaginary systems are inter-subjective, that is, they exist because many people believe in them. And the only way to overturn one is to put something else - something stronger - in its place.
+- Well then, why not have more children if there is enough food &#8658; we quickly use up the food surplus, and now we need even more food!
 
-?
-There is no way out of imaginary systems. When we break out of the walls of our prison and run towards freedom, we are really only running out into the courtyard of an even wider prison.
+- Well then, let's work and build walls so that others don't take our wheat from us &#8658; Even more work for even more of us!
 
+By the time we realized that this was a shitty deal, it was too late.
 
+For one, we didn't even remember how it used to be by this time.
+Also, there were already too many of us to make the old ways work, even if we remembered them.
+Anyone who might be starting to suspect that we're committing the exact same mistake today has gained a very depressing realization: yes, we are committing the exact same mistake today. We invent a lot of things to save time, and still end up with less time... Genius!
+
+> One of history's few iron laws is that luxuries tend to become necessities and to spawn new obligations.
+
+<br>
+
+This has been accompanied by a psychological revolution, where "our territory" has increasingly become "my house" and we've turned from the present more towards the future. However, long-term planning rarely worked out well for the peasants, as an "elite class" always coalesced who then skimmed off the surplus so that they can freely play at politics, wage wars, make art or philosophize. And for the ever greater cooperation, shared myths became increasingly more important. Of course, let's not forget that "cooperation" was also the end justifying slavery as a means.
+
+As an example, we compare Hammurabi's Code with the American Declaration of Independence. To say that they have quite a different approach to human rights is an understatement, but nevertheless, they both claim to contain general, universal truths. Resolving the apparent contradiction is awkward, but simple: neither of them contains universal truths. Both are just stories we tell ourselves.
+
+But if we want people to believe in an imaginary system, rule one is probably not mentioning that the system is imaginary in the first place! If we keep our mouths shut, however, then even society will help us instill the system in newcomers. In principle, our desires and tastes are shaped by the dominant beliefs of the time (there is nothing natural about, for example, holidaying abroad). Such imaginary systems are *inter-subjective*, that is, they exist solely because many people believe in them. And the only way to overturn one is to put something else -- something stronger -- in its place.
+
+> There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison.
+
+<br>
 
 Since almost everything we do is based on imaginary stories, it would do us no harm to remember them - which, after a while, cannot be scaled. The evolution of our brains has been about observing plants, animals, our environment and social relationships. Raw data storage, essential for serious cooperation, is not - which is why the larger systems have all collapsed. This was the case until 5,000 years ago, when the Sumerians discovered an extra-brain data storage system: writing.
 
 We had to modify our human 'holistic', free-association thinking to make it a bit more 'mechanical', but it was the way to record transactions, taxes and such. It also paved the way for Arabic numerals, which, together with a few operation signs, gave us a very expressive and logical language. Of these, only the 0 and the 1 matter most today, but they are more important than anything else.
 
-
+<br>
 
 Hierarchical constraints always appear in society, just always in a different way - which shows that there is nothing 'natural' about them, they were just invented. Maybe it's not fashionable today to restrict by race, "a black person can't live here"... But interestingly enough, we don't find it strange that there are neighbourhoods where "only rich people can live". Anyway, in big collaborations you need social cues, how to treat who, who is where in the hierarchy compared to the other, etc.
 
@@ -260,8 +262,8 @@ If we had missed 500 years between 1000 and 1500, we would not have been so surp
 
 It was not a great revolution of knowledge, but rather of ignorance. We were finally willing to admit that we do not know everything; indeed, even what we think we know may be wrong. Since then, we have relied on objective observations and have tried to combine them into theories by mathematical methods. For a long time there were only two kinds of ignorance:
 
-Individual ignorance about something important ⇒ ask the priest, he knows - because we already know everything that is important; and
-Collective ignorance about something irrelevant ⇒ nobody knows, but we don't give a shit.
+Individual ignorance about something important &#8658; ask the priest, he knows - because we already know everything that is important; and
+Collective ignorance about something irrelevant &#8658; nobody knows, but we don't give a shit.
 In contrast, the big breakthroughs that have happened recently have come about precisely because we have admitted that we don't collectively know very important things either!
 
 For a long time we believed that the past was the golden age; at best we can hold that level, but no higher. The Icarus story is also very much about 'getting off the high horse', if I may use that metaphor. Then, gradually, science began to solve problems that had seemed insoluble until then, and it is possible to redesign. We're getting to the point where we can compete with death itself! So far it has been central to all religions and philosophies as an inevitable part of human life. But in more modern ideologies, it is almost absent, because although we have not yet won the battle, we at least believe that it can be won.
@@ -349,12 +351,15 @@ In fact, we should be "proud" because we are already practically gods. But let's
 
 ## Summary
 
-Isn't it fun to stroll through the history of the world in half an hour? Especially since it's (I think) more useful than 12 classes combined... But even for a blog post, it's still pretty damn long, so we'll just very briefly summarise the most important lessons:
+Isn't it fun to breeze through the entire history of the world in about half an hour? Especially since it's (in my opinion) more useful than 12 years' worth of school classes combined... But for a blog post, even this much is still pretty damn long, so let me just very briefly summarize the most important lesson from each section:
 
-The cognitive revolution has shown that it is our "imaginations" that really elevate us above animals ⇒ so if we want a better life, we should just tell ourselves "better stories";
-The agricultural revolution showed us that in the long run, "improvements" can be really shitty even if they seem like good ideas in the short run ⇒ so let's be very careful about how we measure the quality of our lives;
-The unification of mankind has shown us that despite our perceived differences, we are all alike ⇒ so perhaps it is worth looking at our similarities; and finally
-The scientific revolution has shown us that the fastest way to progress is to realise what you don't know ⇒ so... I don't know... read more!
+- The cognitive revolution has shown us that it's our "delusions" that really elevate us above the animals &#8658; so if we want a better life, we should just tell ourselves "better stories";
+
+- The agricultural revolution has shown us that in the long run, "improvements" can turn out really shitty, even if they seemed like good ideas at the time &#8658; so let's be very careful about how we measure the quality of our lives;
+
+- The unification of mankind has shown us that, despite our perceived differences, we are all still mostly alike &#8658; so perhaps it would be worth focusing on our similarities instead; and finally
+
+- The scientific revolution has shown us that the fastest way to progress is to realize what we *don't* know &#8658; so... I don't know... Maybe we should read more?
 
 
 
