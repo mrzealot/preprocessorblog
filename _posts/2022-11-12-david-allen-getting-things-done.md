@@ -7,12 +7,12 @@ pages: 352
 date: 2022-11-12 00:01
 hreflang: david-allen-intezz-el-mindent
 excerpt: >
-    I'd like to turn back a bit from the lofty realm of abstract thoughts towards our concrete, ordinary, have-you-seen-my-left-shoe kind of world in this post. I mean, it's all well and good that we think about our principles, our dreams, our attitudes, and even the great overarching purpose of our lives, but if we then get lost in the minutiae of the day-to-day, none of it will matter. So I looked for some guidance in what is often referred to as the "productivity bible"...
+    I'd like to turn back a bit from the lofty realm of abstract thoughts towards our concrete, ordinary, have-you-seen-my-left-shoe kind of world in this post. I mean, it's all well and good that we think about our principles, our dreams, our attitudes, and even the great overarching purpose of our lives, but if we then get lost in the minutiae of the day-to-day, none of it will matter. So I looked for some guidance in what is often referred to as *the* "productivity bible"...
 ---
 
-I'd like to turn back a bit from the lofty realm of abstract thoughts towards our concrete, ordinary, have-you-seen-my-left-shoe kind of world in this post. I mean, it's all well and good that we think about our principles, our dreams, our attitudes, and even the great overarching purpose of our lives, but if we then get lost in the minutiae of the day-to-day, none of it will matter. So I picked up [Getting Things Done](https://www.goodreads.com/book/show/22573850-getting-things-done){:target="_blank"} (or simply GTD) by David Allen, often referred to as the "productivity bible". And if this method has helped countless business leaders carrying huge burdens and responsibilities, it can probably make life more streamlined -- and less stressful -- for us mere mortals, too.
+I'd like to turn back a bit from the lofty realm of abstract thoughts towards our concrete, ordinary, have-you-seen-my-left-shoe kind of world in this post. I mean, it's all well and good that we think about our principles, our dreams, our attitudes, and even the great overarching purpose of our lives, but if we then get lost in the minutiae of the day-to-day, none of it will matter. So I picked up [Getting Things Done](https://www.goodreads.com/book/show/22573850-getting-things-done){:target="_blank"} (or simply GTD) by David Allen, often referred to as *the* "productivity bible". And if this method has helped countless business leaders carrying huge burdens and responsibilities, it can probably make life more streamlined -- and less stressful -- for us mere mortals, too.
 
-Speaking of "less stressful", the subtitle of the book (The Art of Stress-Free Productivity) promises that not only will we be more productive, but we will also become a lot calmer in the process! This is because if we always do what we know we *should* be doing, you won't have any cognitive dissonance, and we'll have that coveted [flow]({% post_url 2022-10-26-mihaly-csikszentmihalyi-flow %}) experience more easily. On top of that, the method is modular -- meaning, it doesn't require us to follow everything word for word -- so hopefully the habituation phase itself won't cause too much mental distress either. The author is well aware that we are not perfect, so he wants to help, not just add another thing to feel guilty about to the queue.
+Speaking of "less stressful", the subtitle of the book (The Art of Stress-Free Productivity) promises that not only will we be more productive, but we will also become a lot calmer in the process! This is because if we always do what we know we *should* be doing, we won't have any cognitive dissonance, and we'll have that coveted [flow]({% post_url 2022-10-26-mihaly-csikszentmihalyi-flow %}) experience more easily. On top of that, the method is modular -- meaning, it doesn't require us to follow everything word for word -- so hopefully the habituation phase itself won't cause too much mental distress either. The author is well aware that we are not perfect, so he wants to help, not just add another thing to feel guilty about to the queue.
 
 It was emphasized at the beginning that the book would be more about principles rather than a series of concrete steps. Now *this* hasn't really been fulfilled. As an illustration, the five-step planning method of chapter three is detailed step by step (after two counter-examples), and it was at the 4th element of a 6-long expansion list under the second subsection of the first step when it occurred to me that "Hansel and Gretel can suck it along with their breadcrumbs!".
 
@@ -20,13 +20,13 @@ It was emphasized at the beginning that the book would be more about principles 
 >
 > -- Ralph Waldo Emerson
 
-This is not to say, of course, that there weren't useful principles in the book that could be applied universally. It just means that they needed a bit of extraction. There were many timeless, obsolescence-proof tips, for example, only they were demonstrated at a "granddaddy" modernity level, with pen and paper. I filtered these out, partly because they were incompatible with my digital fixation anyway. On the other hand, I dare to hope that you, my dear readers, will also be able to tailor the details to your own needs, knowing the principles.
+This is not to say, of course, that there weren't useful principles in the book that could be applied universally. It just means that they needed a bit of extraction. There were many timeless, obsolescence-proof tips -- only they were demonstrated at a "granddaddy" modernity level, with pen and paper. I filtered these out, partly because they were incompatible with my digital fixation anyway. On the other hand, I dare to hope that you, my dear readers, will also be able to tailor the details to your own needs, knowing the principles.
 
-The point is that there is nothing "new" or "revolutionary" about all this; it just states in concrete terms what we are already doing unspoken. But direct control through concreteness can bring very significant changes! For example, imagine pressing buttons randomly on a bare control panel, and then getting labels explaining what each button does.
+The point is that there is nothing "new" or "revolutionary" about all this; it just states in concrete terms what we are already doing unspoken. But direct control through concreteness can bring very significant changes! Imagine pressing buttons randomly on a bare control panel, and then getting labels explaining what each button does.
 
-Structurally, the book covers the same "curriculum" in 3 parts, with varying degrees of depth and detail. With your permission, I've condensed these passes into one, so that everything is touched on only once -- but then completely. I'll skip the project planning part on top of that, because I think focusing on how to deal with the existing shitstorm is plenty to start with. So the table of contents is as follows:
+Structurally, the book covers the same "curriculum" in 3 parts, with varying degrees of depth and detail. With your permission, I've condensed these passes into one, so that everything is touched on only once -- but then completely. I'll skip the project planning part on top of this, because I think focusing on how to deal with existing shitstorms is plenty to start with. So the table of contents became the following:
 
-- [Introduction](#introduction)
+- [Introduction](#intro)
 - The main, 5 step method:
     1. [Capturing](#capturing)
     2. [Clarifying](#clarifying)
@@ -44,98 +44,133 @@ Structurally, the book covers the same "curriculum" in 3 parts, with varying deg
 
 
 
-Introduction
-Nowadays it is almost inevitable - even fashionable! - that we take on more than we can handle. This is accompanied by a blurring of the boundaries between work and leisure, especially in 'knowledge-based' work. True, the information that could potentially improve any of our processes is in fact infinite and easily accessible. But then someone would have to access it, interpret it, draw conclusions... And if that were not enough, even our work in general is not well defined - or if it is, we don't have to do (only) that. In fact, we no longer have to adapt to our work, but to continuous adaptation.
+## <a name="intro"></a>Introduction
 
-If everything in our lives were 'fine', we would have the same job, no financial or health crisis, no need to move or renovate, no children, etc. Then maybe we could slowly find a rhythm of our own that would make everyday life sustainable. But unfortunately, most of the time, both our companies and ourselves are in a state of constant change. The pace of life (culture, lifestyle, technology) has accelerated to the point where we increasingly have to make changes with huge consequences. In fact, not much is different than it used to be, just the speed.
+Nowadays it's almost inevitable -- even fashionable! -- to take on more than we can handle. This is accompanied by a blurring of the boundaries between work and leisure, especially in "knowledge-based" work. True, the information that could potentially improve any of our processes is in fact infinite and easily accessible. But then someone would have to access it, interpret it, draw conclusions... And if that weren't enough, even our work in general isn't well defined. In fact, we no longer have to adapt to our work, but to continuous adaptation itself.
 
-?
-Nothing is new, just how often it is new.
+If everything in our lives were "in order", meaning we'd have the same job, no financial or health crisis, no need to move or renovate, no children, etc. Then *maybe* we could slowly find a rhythm of our own that would make everyday life sustainable. But unfortunately, most of the time, both our work and personal lives are in a state of constant flux. The pace of life (culture, lifestyle, technology) has accelerated to the point where we have to make hugely consequential changes increasingly often. In fact, not much is different from what it used to be, just the tempo.
 
+> Nothing is new, except how frequently it is.
 
-This in turn leads to a situation where the old methods are no longer good enough, even if we do the same things. This speed and complexity is no longer covered by a simple TODO list. There is a surprisingly large number of things to deal with on an average daily basis, so a system is very important. If I can consciously recognize how many things I have in my head, and have a system for dealing with them, then it won't be a huge mental burden to jump from one to the next.
+This in turn leads to a situation where the old methods are no longer good enough, even if we happen to do the same things we used to. Today's speed and complexity is no longer covered by a simple `TODO` list. There is a surprisingly large number of things to deal with on an average daily basis, so a system is very important. But if we can consciously recognize how many things we have in our heads, and have a system for dealing with them, then it won't be such a huge mental burden to jump from one thing to the next.
 
-It's a good-natured attempt to define higher, more abstract goals, and then that value system will guide our choices. But it can't quite cope with the distractions of the day-to-day, hour-to-hour level. The truth is, by default, no one is used to thinking about work. For a very long time, work was just something that wasn't done and needed to be done. If I shovel the shit, I know exactly what needs to be done; I see how big the pile is, how much is left, and I shovel it.
+It's a well-meaning attempt to define higher, more abstract goals, and then have the resulting value system guide our choices. But it can't quite cope with the distractions of the day-to-day, hour-to-hour level. The truth is, by default, no one is used to thinking about work. For a very long time, work was just something that wasn't done yet needed to be done. If we shoveled shit, we'd know exactly what needs to be done; we'd see how big the pile is, how much is left, and shovel on.
 
-Now that's a "two brain cells" attitude that doesn't even get the job done these days. And for the more transversal, less tangible life goals, it hasn't been enough. So even if it seems logical that our big vision should dictate the details, let's build from the bottom up. Most of us are so lost in our daily lives that we have no chance to get to our vision. But if we take the small implementation steps first, we can at least start moving forward, initially "blindly".
+This "two brain cells" attitude won't get the job done anymore. And for the more abstract, less tangible life goals, it's never been enough in the first place. So even if it seems logical that our big vision should dictate the details, let's still build from the bottom up. Most of us are so lost in our daily lives that we have no chance to get to our vision. But if we prioritize the small implementation steps, we can at least start moving forward, even if "blindly" at first.
 
+<br>
 
+The solution proposed in this book can be summarized in 5 steps -- which will also be the subject of the next 5 sections:
 
-The solution proposed in this book can be summarised in 5 steps - which will also be the subject of the next 5 sections:
+1. We collect all the tasks -- giving us a definition of what it would mean to be "ready";
 
-We collect all the tasks - giving us a definition of what it means for us to be "ready";
-We make each item concrete - giving what it means to "do" for that item;
-Organise each item into multi-level, complex lists;
-We use these lists to inform our self-analysis; and
-Doing what needs to be done.
-If something is rattling around in our heads, it is no longer in order, because in a good situation nothing should be rattling around! So we collect, concretise and store things - what needs to be done, what is the end goal, what would be the next step? It makes us feel a little bit better, and we can feel it many times over if we do everything in this way. The main thing is to get it out of your head!
+2. We make each item concrete -- giving us a definition of what it means to "do" each item;
 
-?
-It's usually inversely proportional to how much you think about something and how much progress you make.
+3. We organize each item into multi-level, complex lists (depending on how we want to be reminded of them);
 
-By ourselves, we waste most of our energy thinking about the problem, not the solution. This "base line" out of our heads works because it forces us to focus on the solution. We are not making progress, but we are making concrete progress, and that makes it clearer what needs to be done and why. The focus becomes the end goal and the way to get there, not the problem.
+4. We use these lists to inform our self-analysis; and
 
-?
-Thinking is useful if it motivates us to act, but it is a hindrance if we do instead of doing.
+5. We actually do what needs to be done.
 
-- Bill Raeder
+If anything is rattling around in our heads, then we've failed already, because as a baseline, *nothing* should be rattling around there! So we collect, concretize and store things -- including what needs to be done, what the end goal is, and what the next step would be. Each repetition of this process will make us feel a little bit better, and we can multiply this feeling many times over if we make a habit out of it. The main thing is to get stuff out of our heads!
 
-But don't worry, it's like an athlete: it can be improved! You're not progressing slowly because you're thinking slowly, just badly. And it's not our time, incoming information, or priorities that need to be managed, it's "just" our actions - which in turn we 100% control.
+> There is usually an inverse relationship between how much something is on your mind and how much it's getting done.
 
-My personal opinion is that it is not the quality of the system itself that is really important, but that we have it and trust it. There is little difference between a bad system and an optimal system. The big gap is between the no and the is. So let's have some system so that we are prepared to go to war with ourselves.
+Left to ourselves, we waste most of our energy thinking about the problem, not the solution. This pillar of "getting things out of our heads" works because it forces us to focus on the solution. Even though we are not making progress, we are making what progress would look like concrete, and that makes it clearer what needs to get done and why. The focus becomes the end goal and the way to get there, not wallowing in the problem.
 
-?
-It is difficult to fight an enemy who has a base in your head.
+> Thought is useful when it motivates action and a hindrance when it substitutes for action.
+>
+> -- Bill Raeder
 
-- Sally Kempton
+But don't worry, similarly to athletes, this can be improved! We're not progressing slowly because we're thinking slowly; we're just thinking "badly". And thankfully it's not our time, incoming information, or priorities that need to be managed, it's "just" our actions -- which we 100% *can* control.
 
+My personal opinion is that it's not even the quality or the depth of the system itself that is really important, but that we A) have one, and B) trust it. There is little difference between a bad system and an optimal system. The big gap is between having one and not having one. So let's have some system so that we are prepared to go to war with ourselves.
 
+> It is hard to fight an enemy who has outposts in your head.
+>
+> -- Sally Kempton
 
-A few words about preparation: the author holds regular consultations and the transition is usually done in a cure course of about 2 full days. Obviously, in our case, there is no such formality. However, we should be aware in advance that, as with anything new, a major effort is expected. Don't let this put you off, maintenance will be a breeze - and in time, an automatic part of your daily routine. It's just getting there.
+<br>
 
-?
-It's easier to fix your feelings with actions than to fix your actions with feelings.
+A few words about preparation: the author holds regular consultations and the transition to his system is usually done as a crash course of about 2 full days. Obviously, in our case, there is no such formality, or hurry. However, we *should* be aware in advance that, as with anything new, a major effort is to be expected. We shouldn't let this put us off, though, as maintenance will be a breeze -- and in time, an automatic part of our daily routine. It's just about enduring until we get there.
 
-- O. H. Mowrer
+> It is easier to act yourself into a better way of feeling than to feel yourself into a better way of action.
+>
+> -- O. H. Mowrer
 
-A prerequisite is to have a "decent" job. If you work from home, you work there. If you commute to work, you work there. If you're on the road a lot, you should also have a ready-made solution for what you can do, what you have on hand, that sort of thing. What you actually need is of course very individual. The main thing is to be able to manage lists somehow, and to have some kind of calendar. Besides, we don't share! Everyone needs their own workspace - which doesn't have to be a separate room, but at least a separate desk.
+A prerequisite is to have a decent office. If we work from home, then there. If we commute to work, then there **too**. If we're on the road a lot, we should still have a ready-made solution for what we can do in what contexts, what we have on hand when, that sort of thing. What any of us *actually* needs is, of course, very subjective. The main thing is to be able to manage lists somehow, and to have some kind of calendar. Besides, we don't share! Everyone needs their own workspace -- which doesn't have to be a whole separate room, but at least a separate desk.
 
-The other key requirement is a universal filing system. If there is none, we will have an amorphous pile of our "put away" things. Make it quick, simple and always at hand, otherwise you won't use it. Also, we have to remember that we want to access the data here, not just store it. A good rule of thumb is that if it takes longer than 1 minute to find or store anything, it's no good.
+The other key requirement is a universal filing system. Otherwise, we will soon turn our "saved" things into an amorphous pile. It should be quick, simple and always at hand, otherwise we won't use it. Also, we have to remember that we want to access data here, not just store it. A good rule of thumb is that if it takes longer than a minute to either file or retrieve anything, it's no good.
 
 Armed with this information, we can finally get started on the 5 key steps to keep our lives under control.
 
-
-
-Collection
-As soon as we label something as "must, should or could", it is "unfinished". Unfinished because our brain knows that there is something we haven't done (but should, ought to or could). If we don't record this properly - that is, off the top of our head, with a specific end goal, a specific next step - it will fester. And the dribble keeps eating away at our attention!
-
-Therefore, the first step towards stress-free living is to collect everything that grabs your attention. This can be in a physical inbox 'tray', on paper, via digital text/audio, email, whatever. What is essential is that:
-
-Everything is outside our heads;
-everything should be in the same place (or at least as few places as possible) - if some of it is here, some of it is there, we won't trust either (rightly);
-all incoming is emptied regularly to keep it usable.
-?
-You can only feel good about what you're doing if you know everything you're not doing alongside it.
-
-Spare no expense! If we've got work to do, let's do it. If it's too big for the inbox, write a note about it and let it go in the inbox. If it's already pre-organised, throw it in here in the shared - it'll be good to keep everything uniform. If something is "just" out of place, it might just go back in - unless you have something to do with it, in which case it goes in the common! Once the physical stuff is done, a mental circle is needed. Whatever comes to mind from stopping climate change to buying cat food on the way home.
-
-It's important to note that we don't get into the organisation here. This is just a collection of what we will have to deal with in the first place. And making decisions or categorizing requires a very different state of mind than collecting. Let us also be aware that at this stage nothing can stay for long. If our brains feel that we are not really dealing with the inputs, then the scrambling comes again!
-
-Psychological takeaway: hoarding is both anxiously negative and liberatingly positive. But the negative part doesn't actually come from all the work you have to do - because then it would never be over - but from all the "agreements" you've made with yourself so far that you've broken. And if that's the case, then:
-
-you don't have to commit as much (which will be much easier to defend with a clean TODO list); or
-you have to do it and that's it; or
-renegotiate with yourself.
-If you keep something solely in your head, its only present tense. As soon as you have two things in your head, you are already breaking at least one of your vows because you are not doing them. That's why you have to keep it out of your head. This applies even to what at first sight seems insignificant. In your head there is no difference between cleaning your basement and starting a business, both are just vows.
-
-Thinking about something is always more useful than thinking about something. Reminding should be a matter of system, so that you can always add something to your thinking.
-
-You can roughly sense in a relationship or in a company culture how reliable the links are. If you have to hold hands because you fear you won't get what you ask for, there will be a constant dose of stress in the background. There can also be a proliferation of meeting needs that wouldn't be necessary if things were running smoothly. But if we trust the other person's system, we don't always need to demand immediate attention, and they will respond when we get there. In the author's family, for example, they even do it at home by dropping things into each other's inboxes instead of interrupting the other. Of course, that doesn't mean you're sailing in the right direction - or that you're sailing in the right direction at all... But at least you're sailing efficiently!
+<br>
 
 
 
-Concretize
-Once you've got a well-filled incoming stack, it's time to flesh out which items are what and what to do with them. The first question is: what is it? Sounds funny, but in the author's experience, many people don't even get that far... But we should at least identify what we are "dealing with".
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="capturing"></a>Capturing
+As soon as we label something as "must", "should" or "could", it becomes an "incomplete". Incomplete, because our brain knows that there is something we haven't done yet (but must, should or could). If we don't record this properly -- that is, outside of our heads, with a specific end goal, and a specific next step -- it will fester. And the rattling just keeps eating away at our attention!
+
+Therefore, the first step towards stress-free living is to collect **everything** that grabs our attention. This can be in a physical inbox tray, on paper, via digital text/audio, email, whatever. What is essential is that:
+
+- Everything is outside our heads;
+
+- Everything is in the same place -- or, at the very least, in as few places as possible. If half of it is here while the other half is there, we won't trust either source (and rightly so);
+
+- Every incoming item is regularly processed to keep the metaphorical "input tray" usable.
+
+> You can only feel good about what you're not doing when you know everything you're not doing.
+
+Spare nothing! If it requires any work on our part, let it come. If it's too big for the inbox, we should simply write a note about it and let *that* go in the inbox. It goes into the inbox even if it's already pre-organized -- it's much more important to keep everything uniform. If something is "just" misplaced, it *may* just go back in its place -- unless we have something to do with it, in which case (you guessed it) it goes in the fucking inbox! Once the physical stuff is done, a mental round is needed, of course. Whatever comes to mind, from stopping climate change to buying cat food on the way home.
+
+It's important to note that we **don't** start organizing stuff here. This is just a collection of what we will have to deal with in the first place. And making decisions or categorizing requires a very different state of mind than collecting anyway. Let's also be aware, though, that nothing can stay at this stage for long. If our brains feel that we are not really dealing with the inputs, then the *rattling* comes back again!
+
+Psychological outlook: collecting is both anxiously negative and liberatingly positive. But the negative part doesn't actually come from all the work we have to do -- because then it would never be over -- but from all the "agreements" we've made with yourself so far that we've broken. And if that's the case, then:
+
+- Either we shouldn't take on so many commitments (which will be much easier to defend with a clear `TODO` list); or
+
+- We just have to do it and that's it; or
+
+- We need to renegotiate with ourselves.
+
+If something is kept solely in our heads, it only knows present tense. As soon as we have two things in there, we are already breaking at least one of our vows because we are not doing one of them. That's why we have to keep everything out of your heads. This applies even to what at first sight might seem insignificant. In our minds, there is no difference between cleaning the basement and starting a business -- both are just vows.
+
+Thinking **about** something is always more useful than thinking **of** it. Reminding should be the job of a system, so that we can always add value during our thinking.
+
+It's very apparent in a relationship or in a company culture how reliable individual links are. If we have to hold someone's hand because otherwise we'd fear not getting what we asked for, there will be a constant dose of stress in the background. There can also be a proliferation of meetings, which wouldn't even be necessary if things were running smoothly. But if we trust the other person's system, we don't always need to demand immediate attention -- they can just respond when they get to it. In the author's family, for example, they even do it at home by dropping things into each other's inboxes instead of interrupting the other. Of course, all this doesn't mean that we're sailing in the right direction -- or that we're on the right boat at all... But at least we'll be sailing more efficiently!
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="clarifying"></a>Clarifying
+
+Once our inboxes are bursting at the seams, it's time to flesh out which items are what and what to do with them. The first question is: what is it? Sounds funny, but in the author's experience, many people don't even get that far... But we should at least identify what we are "dealing with".
 
 The second question is: do we have anything to do with it? Because it may well be that we don't. If we don't have it now, we incubate it (see under Systematisation). If we don't have it, but we want to keep it for reference, it can go into the file (which was a prerequisite). And if we don't even want to retrieve it, there's the bin for that. Goodbye!
 
@@ -182,7 +217,8 @@ All action has a price and risks, but they are far less than the long-term price
 
 
 
-Systematisation
+## <a name="organizing"></a>Organizing
+
 Ok, we've collected, we've concretised, time to organise the rest! Our primary concern is to keep the boundaries between categories 'sharp'. All different kinds of conventions with ourselves that define when and how we ask for reminders. If these start to conflate, it all becomes meaningless.
 
 In fact, you only have to manage lists, which may make many people sceptical, as many people have been writing lists for a very long time without success. But it is not "easy yet", it is "easy already"! In other words, a lot of brainstorming, organisation and experimentation has gone into getting the end user to write lists.
@@ -214,7 +250,8 @@ If you don't have (foreseeable) things to do, but it would be nice to keep the c
 And as a deduction, if you have nothing to do with it, and don't want to retrieve it, then (8) throw it in the bin. It may sound obvious, but it is very important not to mix it with anything else. If it's just one thing that we have to do with, we won't dare throw it away, so it will need to be re-sorted, become "stuff" and extra work. So as soon as we know something is rubbish, it goes in the bin.
 
 
-Self-test
+## <a name="reflecting"></a>Reflecting
+
 It's not enough to organise your tasks, you also need to review them from time to time. For example, it's one thing to know that you're out of milk, it's quite another to remember it in the shop. You can only think 'higher' if you can really leave the low level to the system, and you can only do that if the system is always 100% reliable. That's why you always need to keep it fresh, periodically review it, delete from it, expand it, etc. If you don't review your open threads for a very long time, your brain will gradually take back the role of reminder and the "mothballing" will return. So regular - daily and weekly - review is essential for the whole GTD to work!
 
 ?
@@ -233,7 +270,7 @@ To understand the world, we sometimes need to turn away from it.
 
 
 
-Action
+## <a name="engaging"></a>Engaging
 This is the part where we 'intervene' in the way the world works and actually do something. I hope no one thought we could get away with it! But what and how we intervene is very different. And if the first four steps get stuck anywhere, it will almost certainly not be where and how it should be.
 
 The bad(ish) news is that, even if we've done everything right, we'll still have several options to choose from intuitively at most moments. The good news is that, because of our system, we may no longer just hope we can choose well, but trust it.
@@ -273,7 +310,7 @@ If you have a well-oiled, low-level method, it will work later on, whatever you 
 If your ship is sinking, then you don't really care if it's on course!
 
 
-Scientific support
+## <a name="underpinnings"></a>Scientific underpinnings
 This is about the end of the original book, but there has been a lot of interesting cognitive and social research since it was first published, which nicely supports the principles discussed in it.
 
 Positive psychology is an initiative to stop focusing on the negative all the time. Happiness, mental wellbeing, meaning in life, and other little things are worth a sermon. Fortunately, there are more and more "formal" curricula for these too, and GTD can help. There are not "only" TODO lists here either, and mental clarity, right prioritization, happiness, success, etc. are goals - and consequences.
@@ -296,7 +333,7 @@ hopeful, because you identify your goals and several potential paths that will m
 resilient because it gives you stability in the face of unforeseen - or even unforeseeable - difficulties and helps you keep your cool.
 
 
-Becoming a master
+## <a name="mastery"></a>Becoming a master
 GTD is a lot like mastering an instrument or a sport: there's never an 'end', it's an art that can be perfected over a lifetime. But in return, like instruments and sports, the whole is greater than the sum of its parts.
 
 At the basic level, we still pay attention one by one to the collection, the definition of next steps, the waiting lists, the TODO lists per person, a transparent and quick reference system, the stripped-down calendar, and the weekly review. All are easy to slip up with, even if they are not big things in themselves, but - precisely because they are not big things - they are just as easy to climb back up! It can take years for everything to sink to a routine level, but once you have it, it becomes a stable hour-by-hour, day-by-day level.
@@ -305,9 +342,28 @@ As an intermediate, the goal is more week-by-week or month-by-month. There will 
 
 As a master, the system is no longer the focus. And we can use the energies we release to deepen our interests and relationships, or add value with our outside brain. In the clear order, we can see connections that we might not otherwise see, and we can often benefit from the unexpected mixing of areas of our lives.
 
+<br>
 
 
-Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Summary
+
 GTD gives us a universally applicable set of tools that can be used to bring order to the messiest, most hectic mess. Obviously it won't replace discipline and work, but at least we won't slip through the cracks of lack of methodology while working in a disciplined way.
 
 To sum up, rather than a mechanical repetition, I would highlight the lessons that are most important to me:
