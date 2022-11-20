@@ -4,7 +4,7 @@ title: David Allen - Getting Things Done
 cover: gtd
 tags: [productivity]
 pages: 352
-date: 2022-11-12 00:01
+date: 2022-11-20 00:01
 hreflang: david-allen-intezz-el-mindent
 excerpt: >
     I'd like to turn back a bit from the lofty realm of abstract thoughts towards our concrete, ordinary, have-you-seen-my-left-shoe kind of world in this post. I mean, it's all well and good that we think about our principles, our dreams, our attitudes, and even the great overarching purpose of our lives, but if we then get lost in the minutiae of the day-to-day, none of it will matter. So I looked for some guidance in what is often referred to as *the* "productivity bible"...
@@ -20,7 +20,7 @@ It was emphasized at the beginning that the book would be more about principles 
 >
 > -- Ralph Waldo Emerson
 
-This is not to say, of course, that there weren't useful principles in the book that could be applied universally. It just means that they needed a bit of excavation. There were many timeless, obsolescence-proof tips -- only they were demonstrated at a "granddaddy" modernity level, with pen and paper. I filtered these out, partly because they were incompatible with my digital fixation anyway. On the other hand, I dare to hope that you, my dear readers, will also be able to tailor the details to your own needs, knowing the principles.
+onlyThis is not to say, of course, that there weren't useful principles in the book that could be applied universally. It just means that they needed a bit of excavation. There were many timeless, obsolescence-proof tips -- only they were demonstrated at a "granddaddy" modernity level, with pen and paper. I filtered these out, partly because they were incompatible with my digital fixation anyway. On the other hand, I dare to hope that you, my dear readers, will also be able to tailor the details to your own needs, knowing the principles.
 
 The point is that there is nothing "new" or "revolutionary" about all this; it just states in concrete terms what we are already doing unspoken. But direct control through concreteness can bring very significant changes! Imagine pressing buttons randomly on a bare control panel, and then suddenly getting labels explaining what each button does.
 
