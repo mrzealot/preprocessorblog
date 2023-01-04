@@ -230,30 +230,30 @@ Finally, remember that humor can sometimes be an effective stress reliever! It s
 
 ## <a name="teaching"></a>Focus on teaching
 
-?
-Being able to help people around me achieve their goals highlights the skill and label I value most - teacher.
+> The ability to help the people around me self-actualize their goals underlines the single aspect of my abilities and the label that I value most -- teacher.
 
-It all starts with laying down expectations, principles and coping strategies. From there, the bulk of a leader's job is actually teaching. Planning when, with whom or whom and what to talk about. And, of course, how to say the same things over and over again in a way that still feels fresh - until it 'passes'.
+It all starts with laying down expectations, principles and coping strategies. From there, the bulk of a leader's job is actually teaching. Planning when, with whom and what to talk about. And, of course, how to say the same things over and over again in a way that still feels fresh -- until it "hits home".
 
-It's not so much what you say, but how you teach them what to say for themselves. The external voice fades away at the end of the speech, but if you influence their internal voice, the message will be there in their ears all the time. And the inner monologue should not be influenced (only) by speech, but by example! If you do what you should, suddenly it doesn't need to be talked about so much.
+It's not so much what you say, but how you teach them what to say to themselves inside their own heads. The external voice fades away at the end of the speech, but if you influence their internal voice, the message will be there in their ears all the time. And the inner monologue should not be influenced (only) by speech, but by example! If you do what you should, suddenly it doesn't need to be talked about so much.
 
-In retrospect, it is teaching that is Walsh's real passion, that gives him real satisfaction. But he emphasizes the skill and perseverance that such a level of communication requires. Because it's not enough that you know something, you have to be able to pass on that knowledge! Teaching is a two-way street, and you can't deliver the material if the other side doesn't get it. If the audience doesn't get the message or is bored, it's the presenter's fault! But if you really love what you teach, your enthusiasm will become the enthusiasm of your students.
+In retrospect, teaching is Walsh's real passion; what gives him real satisfaction. But he emphasizes the skill and perseverance that such a level of communication requires. Because it's not enough that you know something, you have to be able to pass on that knowledge! Teaching is a two-way street, and you can't deliver the material if the other side isn't receiving. If the audience doesn't get the message or is bored, it's the teacher's fault! But if you really love what you teach, your enthusiasm will become infectious.
 
-As our hero moved up the ranks, he had other responsibilities. This was definitely a negative in that the new responsibilities took away from teaching - which for him was the most important thing. But he thinks it's all worth doing for the teaching itself.
+As our hero moved up the ranks, he acquired other responsibilities. This was definitely a negative, in that the new responsibilities took away from teaching -- which for him was the most important thing. But he still thinks it was all worth doing for the teaching alone.
 
-And just to add to the list, he also gives a number of detailed tips for more effective teaching:
+And just to add to the list of lists, he also gives a number of detailed tips for more effective teaching:
 
-Use simple common language and avoid "big words"!
-Be concise - it's harder to be concise and simple than expansive and complicated!
-Be prepared for the changing backgrounds of your audience!
-Be prepared that some people will always be more open to learning than others!
-Listen to the audience's reactions - know if what you are talking about is "getting through"!
-Emphasize note-taking!
-Make your presentation varied so they don't fall asleep to monotony!
-Keep your presentation organized and logical!
-Depending on the situation, sometimes work the audience!
-Use visual elements!
-Think of it as an art - the more you learn about teaching itself, the better you will get at it!
+- Use simple common language and avoid "big words"!
+- Be concise -- it's harder to be concise and simple than verbose and complicated!
+- Be prepared for the various backgrounds of your audience!
+- Be prepared that some people will always be more open to learning than others!
+- Listen to the audience's reactions -- know if what you are talking about is "getting through"!
+- Emphasize note-taking!
+- Make your presentation varied so they don't fall asleep from monotony!
+- Keep your presentation organized and logical!
+- Depending on the situation, sometimes work the audience!
+- Use visual elements!
+- Think of it as an art -- the more you learn about teaching itself, the better you will get at it!
+
 The ultimate goal is to make teachers out of your students too. After all, the most effective way to train newcomers is for veterans to (also) train their own successors. So let there be no bullying and no second-rate "disrespect"; if everyone works together, the whole organization will be better off.
 
 <br>
@@ -269,14 +269,15 @@ The ultimate goal is to make teachers out of your students too. After all, the m
 
 
 ## Summary
-I would like to conclude this post with one "key" lesson per section - in list form, of course:
 
-Focusing on performance standards shows that the journey is more important than the destination. Or as my favourite fantasy author puts it, "Journey before destination".
+I would like to conclude this post with one "key" lesson per section -- in list form, of course:
 
-Among the leadership principles, I would highlight adequate preparation. Neither good nor bad contingencies can throw you off course if you plan ahead on as many lines as possible!
+- Focusing on performance standards shows that the journey is more important than the destination. Just like the [Knights Radiant](https://www.goodreads.com/quotes/299246-life-before-death-strength-before-weakness-journey-before-destination){:target="_blank"}, eh?.
 
-To some extent, the first point is a corollary, but it is important: deal with failure and success in the same way! Take care of your processes and "the result will come on its own".
+- Among the leadership principles, I would highlight adequate preparation. Neither good nor bad contingencies can throw you off course if you plan ahead along as many lines as possible!
 
-Be fair to your subordinates! Treat them equally and humanely and it will show in their performance.
+- To some extent, this is a corollary of the first point, but it is important to single out: deal with failure and success in the same way! Take care of your processes and (you know it) "the score will take case of itself".
 
-Think of yourself as a teacher first; and think differently about teachers in general! In terms of occupation, they were all 'teachers' you came across in your school experience, but in terms of profession, only a few. Of these few, you probably remember their names now and the influence they had on you. Be like them!
+- Be fair to your subordinates! Treat them equally and humanely and it will show in their performance.
+
+- Think of yourself as a teacher first; and think differently about teachers in general! In terms of official job description, many people you came across during your education were "teachers", but in terms of profession, only a few. But you probably still remember the names of these few, and could name the meaningful impact they had on you. Be like them!
