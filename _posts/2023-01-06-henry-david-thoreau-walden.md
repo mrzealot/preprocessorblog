@@ -12,7 +12,7 @@ excerpt: >
     In his seminal book, he shares with the public his reasoning, his experiences, and his conclusions that led him to this point.
 ---
 
-My shorter-term plan is to cover all the topics mentioned in the introductory post at least superficially, but for now we have focused pretty much exclusively on the mind. I could say that the blog is quite literally *top-heavy*! So, starting with this mini-jubilee -- _my **10th** post already!_ -- I'm going to turn a little more towards the physical world for a while, where we can begin dissecting our bodies and our environment.
+My shorter-term plan is to cover all the topics mentioned in the [introductory post]({% post_url 2022-10-19-intro %}) at least superficially, but for now we have focused pretty much exclusively on the mind. I could say that the blog is quite literally *top-heavy*! So, starting with this mini-jubilee -- _my **10th** post already!_ -- I'm going to turn a little more towards the physical world for a while, where we can begin dissecting our bodies and our environment.
 
 Particularly close to my heart is the minimalist life philosophy, so I've chosen to focus on that for this week within the material world. And as [Marcus Aurelius]({% post_url 2022-10-21-marcus-aurelius-meditations %}) says, "go straight to the seat of intelligence". So I'll start my exploration with [Henry David Thoreau's Walden](https://www.goodreads.com/book/show/16902.Walden){:target="_blank"}, considered by many to be the main classic of minimalism.
 
@@ -35,7 +35,7 @@ But for those who stay, be prepared for a convincing argument for minimalist liv
 
 ## Economy
 
-This is the part where he practically roasts people for living incorrectly -- mainly because of their own delusions. They over-extend themselves, chasing money until they are sick, so that they have money saved for when they are sick. They're resigned to "this is just the way it is", accept the default settings and suffer in silence. This wouldn't matter one bit if only others thought this about them, but no, it's their own opinion about themselves, too -- and **that's** a problem.
+This is the part where he practically roasts people for living incorrectly -- mainly because of their own delusions. They over-extend themselves, chasing money until they are sick, so that they have money saved for when they are sick. They're resigned to "this is just the way it is", accept the default settings and suffer in silence. This wouldn't matter one bit if only others thought they suffered, but no, it's their own opinion about themselves, too -- and **that's** a problem.
 
 > The twelve labors of Hercules were trifling in comparison with those which my neighbors have undertaken; for they were only twelve, and had an end.
 
@@ -45,15 +45,15 @@ This is the part where he practically roasts people for living incorrectly -- ma
 
 The elderly try to share their "wisdom" about the great things in life, but if they aren't happy themselves, then what exactly is their qualification for doing so? Just because they've been living like crap for longer doesn't give them a platform. All ages like to think they have exhausted the possibilities of human existence, but so far none of them have succeeded... So let's just try to find a better balance!
 
-To do this, we should first know what is really, *strictly* necessary. Because we can only contemplate higher meaning if we are not always busy chasing things that are not necessary. Thoreau's first approximation is a list four: food, shelter, fuel and clothing. And while they do cover the necessities, on closer inspection even these can be grouped under a single label: **warmth**. The essence of our physical needs is simply to maintain the warmth of life. To do this, we need food on the inside (and perhaps the fire to cook it), and shelter, fire, and clothing on the outside. And then we can legitimately ask: if all we need is to stay warm, what's all the big fuss about?
+To do this, we should first know what is really, *strictly* necessary. Because we can only contemplate higher meaning if we are not always busy chasing things that are not necessary. Thoreau's first approximation is a list four: food, shelter, fuel and clothing. And while they do cover the necessities, on closer inspection even these can be grouped under a single label: **warmth**. The essence of our physical needs is simply to maintain the warmth of life. To do this, we need food on the inside (and perhaps the fire to cook it), plus shelter, fire, and clothing on the outside. And then we can legitimately ask: if all we need is to stay warm, what's all the big fuss about?
 
-Most luxury and comfort can only get in the way of what's really important. The majority of the "mental greats" were intentionally poor on the outside for a reason. But nowadays, unfortunately, there are no philosophers anymore, only maybe philosophy professors. True philosophers would realize that we should not only know, but also do -- solve the problems of human life practically, not just theoretically.
+Most luxury and comfort can only get in the way of what's really important. The majority of the "mental greats" were intentionally poor on the outside for a reason. But nowadays, unfortunately, there are no philosophers anymore, only maybe philosophy professors. True philosophers would realize that we should not only *know*, but also *do* -- solve the problems of human life practically, not just theoretically.
 
-We do not, of course, criticize people who are rich *on top of* not being poor in spirit. Or who are content with their lot and just mind their own business. The problem is with the (most populous) class who are constantly complaining about how bad it is for them -- yet they are "doing their duty" anyway! Or the ones who are only rich because they're forging their own golden chain themselves!
+We do not, of course, criticize people who are rich *on top of* not being poor in spirit. Or who are content with their lot and just mind their own business. The problem is with the (most populous) class who are constantly complaining about how bad it is for them -- yet they are "doing their duty" anyway! Or the ones who are only rich because they're busy forging their own golden chain themselves!
 
 Our hero, by contrast, is on a completely different path. He has always loved and walked in nature, watched the paths, the plants; been a forest ranger to some extent. Of course, no one was interested in this or recognized this as "work" -- especially financially. But the lack of recognition did *not* lead to the realization that he should do something else or learn to sell himself better! Instead, it led to a realization of how to avoid the need to sell at all. Living on less, more simply!
 
-So he decided to take it upon himself to move out into the forest. With a single, stiff, ordinary set of clothes on his back, which he of course patched rather than changed. And there's wood in the woods anyway, as the name might suggest. So all he really needed, apart from food, was shelter. Some people can get by without it, even in colder climates (in a sleeping bag, for example) -- and in warmer climates it's unnecessary. But it does help to get through winter and rainy weather. So he set to work with his own two hands (and some borrowed tools).
+So he decided to take it upon himself to move out into the forest. With a single, stiff, ordinary set of clothes on his back, which he of course patched rather than changed. And there's wood in the woods anyway, as the name might suggest. So all he really needed, apart from some food, was shelter. Some people can get by without it, even in colder climates (in a sleeping bag, for example) -- and in warmer climates it's unnecessary. But it does help to get through winter and rainy weather. So he set to work with his own two hands (and some borrowed tools).
 
 Here too, however, we must think strictly in terms of necessities! The few square feet offered by a railroad tool shed might do the trick; a few dollars, and then no more rent. The tents of the natives also prove that it can be done naturally. The "savage" owns his "house" because it is so cheap and easy to do so. Meanwhile, the "civilized" man can mostly just rent his, and often couldn't even afford that much if he did the math.
 
@@ -71,7 +71,7 @@ Thoreau worked just enough to meet his needs. And this could be done very quickl
 
 Given the above statements, abstract thinking is not enough, so we'll get right into the nitty-gritty. For example, there is a concrete account of how much he lived on. The numbers themselves don't tell the uninitiated eye much -- at least, not without substantial historic and economic context, which I admittedly have very little of. But if we believe the author, it's very little. And I'm inclined to believe, because it's just basic groceries, plus what he himself produces. Add this food to his house, clothes, and forest-supplied fire, and we're done.
 
-Thoreau's basic philosophy is very different compared to what came before because he no longer looks at the positive side of everything. Sure, you could have more, but what would you have to give *in return*? Is it worth it anyway? For him, freedom is worth much more than material comfort. Finally someone who appreciated the cost-benefit ratio instead of just the benefits.
+Thoreau's basic philosophy is very different compared to what was fashionable at the time because he no longer looks at the positive side of everything. Sure, you could have more, but what would you have to give *in return*? Is it worth it anyway? For him, freedom is worth much more than material comfort. Finally someone who appreciated the cost-benefit ratio instead of just the benefits.
 
 > [...] the cost of a thing is the amount of what I will call life which is required to be exchanged for it.
 
@@ -79,7 +79,7 @@ By working for about 6 weeks, he was able to make enough money for his annual ne
 
 > My greatest skill has been to want but little.
 
-Now, when you hear figures like this, many people will probably say "What a preposterous assumption, this is not the world we live in today"! But I hope the lesson still shines through: even if the absolute figures have changed, we could still work proportionally (and significantly) less if we wanted to. And let's face it, we could want a lot less... But that's not cool, because today we really don't live in that kind of world anymore!
+Now, when you hear figures like this, many people will probably say "What a preposterous assumption, this is not the world we live in today"! But I hope the lesson still shines through: even if the absolute values have changed, we could still work proportionally (and significantly) less if we wanted to. And let's face it, we could want a lot less... But that's not cool, because today we really don't live in that kind of world anymore!
 
 <br>
 
@@ -235,7 +235,7 @@ Let's strive for simplicity and minimalism! Let us pare down our lives so that t
 
 > Superfluous wealth can buy superfluities only.
 
-And in the way, we are even preaching the acknowledgment of ignorance emphasized in [Sapiens]({% post_url 2022-11-09-yuval-noah-harari-sapiens %}). Let's not be content with the status quo! Let's not think that we know or have seen everything, so we can just celebrate and congratulate ourselves! Let's stay alert, watch, learn, and keep improving, because:
+And in a way, we are even preaching the acknowledgment of ignorance emphasized in [Sapiens]({% post_url 2022-11-09-yuval-noah-harari-sapiens %}). Let's not be content with the status quo! Let's not think that we know or have seen everything, so we can just celebrate and congratulate ourselves! Let's stay alert, watch, learn, and keep improving, because:
 
 > Only that day dawns to which we are awake.
 
