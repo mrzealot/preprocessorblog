@@ -10,15 +10,15 @@ excerpt: >
     TODO
 ---
 
-We still stick to [Thoreau]({% post_url 2023-01-06-henry-david-thoreau-walden %})'s minimalist line, but I wanted to add something modern to it, to see the principles in practice in the 21st century. For this purpose, a fairly obvious and highly recommended candidate is Cal Newport's book [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}. I didn't have to worry too much about relevance, since the subtitle of one of the chapters refers to just that: 'An old piece of advice, a new perspective'.
+We're still sticking to [Thoreau]({% post_url 2023-01-06-henry-david-thoreau-walden %})'s minimalist line, but I wanted to add a modern perspective to it, to see the principles in practice in the 21st century. For this purpose, a fairly obvious and highly recommended candidate is Cal Newport's book [Digital Minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}. I didn't have to worry too much about relevance, since the subtitle of one of the chapters confirms just this: "A new look at old advice".
 
-The author is also a university professor of computer science, who has written several times before on the intersection of technology and culture. And after his advice on working with deep concentration, more and more people started to ask him "What about my personal life?"
+The author is also a university professor of computer science, who has written several times before on the intersection of technology and culture. And after his advice on working with deep concentration, more and more people started to ask him "And what about my personal life?"
 
-Because these days there are so many gadgets and apps competing for our attention - whether intentionally or unintentionally - and that's not sustainable in the long term. Some apps are often ironically bad for (also) the very things we installed them for. For example, the main benefit of Facebook is that you can stay in touch with other people; but then you get so addicted to it that you can't even have a normal conversation with your friend across the table without tapping your phone! Apps take away our autonomy, affect our moods, and although they have positive aspects, they undeniably mix good with bad.
+Because these days there are so many gadgets and apps competing for our attention -- whether intentionally or unintentionally -- and that's not sustainable in the long term. Some of these, ironocally, are often bad for the very things we'd use them for. For example, the main benefit of Facebook is that you can stay in touch with other people; but then you get so addicted to it that you can't even have a normal conversation with your friend across the table without checking your phone! Apps take away our autonomy, affect our moods, and although they have positive aspects, they undeniably have their downsides, too.
 
-It is these kinds of problems that we are trying to solve. But unfortunately, as with all major lifestyle changes, half-measures-meaningful strategies will not work here. What we need is a comprehensive "digital philosophy" to manage our lives. After Thoreau's cubicle lifestyle, the minimalist approach that is being promoted will hopefully not seem so extreme in the first place. And then, the more we try to look at it from a different perspective, the more we will realise that it is the amount of screen time that is acceptable today that is really extreme.
+It's these kinds of problems that we are trying to solve. But unfortunately, as with all major lifestyle changes, half-measures won't do. What we need is a comprehensive "digital philosophy" to manage our lives. After Thoreau's cabin-in-the-woods lifestyle, the minimalist approach being promoted here will hopefully not seem so extreme in the first place. And then, the more we try to look at it from a different perspective, the more we'll likely realise that it's actually the amount of screen time acceptable today that's really extreme.
 
-The book is in two major parts, the first of which presents the basic philosophy, with motivation and argumentation. The second part gives concrete techniques on how to keep the good aspects while giving up the bad. The exact table of contents goes like this:
+The book is divided into two major parts, the first of which presents the basic philosophy, with motivation and argumentation. The second part gives concrete techniques on how to keep the good aspects while giving up the bad. The exact table of contents is as follows:
 
 1. Foundations
     - [What's the problem?](#problem) -- A lopsided arms race
@@ -34,7 +34,7 @@ I would also like to highlight a quote from the beginning:
 
 > Long before Henry David Thoreau exclaimed "simplicity, simplicity, simplicity," Marcus Aurelius asked: "You see how few things you have to do to live a satisfying and reverent life?"
 
-In light of my reading list so far, this seems to indicate that we're on the right track... So let's get started!
+In light of my reading list so far, this seems to indicate that we're on the right track... So let's dig in!
 
 <br>
 
@@ -45,24 +45,27 @@ In light of my reading list so far, this seems to indicate that we're on the rig
 
 ## <a name="problem"></a>A lopsided arms race
 
-Neither Facebook nor the iPhone started out with the same purpose as they ended up changing our lives. They were both attempts to optimise the 'edges' of our everyday lives in small ways - a digital university yearbook, or a phone and iPod in one, so you don't have two things in your pocket. Yet today we still wake up to find them at the centre of our lives. And that's not particularly good for us. It's like we've stepped into shit - we didn't know it, we didn't see it, but now we're in it.
+Neither Facebook nor the iPhone started out with the intention of changing our lives -- at least, not the way they did. They were both attempts to optimise the "fringes" of our everyday lives in small ways. One's basically a digital university yearbook, while the other is just the merging of a phone and an iPod, so you can have one less thing in your pocket. Yet today we still wake up to find them at the center of our lives. And that's not particularly good for us. It's like we've stepped backwards into shit -- we didn't know it, we didn't see it, but now we're in it.
 
-The pro-technologists argue in vain that "But how useful!" That's not what we are arguing! But if we are no longer in control, it is useless.
+The pro-technologists might exclaim "How useful!" at every stage, but that's not even the isuse. No one's arguing that they aren't. But if we are no longer in control, it isn't worth it.
 
-?
-It is not utility that is the main issue, but autonomy.
+> It's not about usefulness, it's about autonomy.
 
-And if we start to wonder how we got here, the truth quickly emerges. We have probably not so much 'stepped backwards' into the shit we are talking about as been 'pushed' backwards. There is big money in it, and many have a vested interest in making your whole life revolve around gadgets and apps. Finally, an ex-Google engineer sounded the alarm, and revealed that it's not just paranoia: companies are really doing this knowingly.
+And if we start to wonder how we got here, the truth quickly emerges. We've probably not so much "stepped" backwards into said metaphorical shit as we've been "pushed" backwards into it. There is big money in attention, and many have a vested interest in making our whole lives revolve around gadgets and apps. Finally, an ex-Google engineer sounded the alarm, and revealed that it's not just paranoia: companies are really doing this **knowingly**.
 
-Another early adopter of the problem began to dig in his heels based on his psychological background. And unfortunately, the deeper he got, the clearer the parallels with addiction became. Okay, app addiction isn't a drug, and you're probably not going to steal your own mother's jewellery for your next fix... But when it's in your pocket just a click away, it's hard to stop.
+Another early recognizer of the problem began to dig in his heels based on his psychological background. And unfortunately, the deeper he got, the clearer the parallels with addiction became. Okay, app addiction isn't a drug, and we're probably not going to steal our own mother's jewellery for the next fix... But when it's in our pockets just a click away, it's pretty hard to stop.
 
-There are two main techniques in the developers' toolbox to get you hooked:
+There are two main techniques in the developers' toolbox to get us hooked:
 
-Intermittent, unpredictable positive feedback. Unpredictable, unpredictable, unpredictable feedback. And it spurs you to action even if it's not coming, because the next one will... As a mental image, feel free to imagine a slot machine! Interestingly, these little positive feedbacks are not what most people find useful, so they could be taken away.
+- **Intermittent, unpredictable positive feedback.**
+If we're not sure it's gonna come, that just makes it all the more impactful when it does come.
+And it spurs us to action even if it's not coming, because on the next refresh it might... As a mental image, feel free to imagine a slot machine! Interestingly, these little positive feedbacks are *not* what most people find useful, so they could be taken away.
+Only they won't be, because then what would keep us there?
 
-Emphasis on social compliance. We've already seen in Sapiens the emphasis on social interactions and how deeply ingrained this is. And that's exactly what companies are exploiting! Positive feedback feels like acceptance by the tribe, and lack of it feels like not; so it's really important to pay attention to what's happening.
+- **Emphasis on social conformity.**
+We've already seen the emphasis on social interactions and how deeply ingrained they are in [Sapiens]({% post_url 2022-11-09-yuval-noah-harari-sapiens %}). And that's exactly what companies are exploiting! Positive feedback feels like acceptance by the tribe, and lack of it feels like exile; making it really important to pay attention to what's happening.
 
-So we can see that we are under conscious attack and we are not just wasting so much time by accident if we are not careful. And if the "enemy" has an increasingly sophisticated war plan against us, we should also arm ourselves a little. So now that we know what we're up against, let's see how to fight back!
+So we can hopefully see now that we are under *conscious* attack and we're not just wasting so much time by accident if we're not careful. And if the "enemy" has an increasingly sophisticated plan of attack against us, we should also arm ourselves a little. So now that we know what we're up against, let's see how to fight back!
 
 <br>
 
@@ -79,19 +82,20 @@ So we can see that we are under conscious attack and we are not just wasting so 
 
 ## <a name="solution"></a>Digital minimalism
 
-Superficial "tips and tricks" are not enough against such methods, which can also work on our psychological weaknesses. For example, it is not enough to turn off 112 app notifications; we should ask ourselves: why on earth do we have a 112 app on our phone? The book offers digital minimalism as a more comprehensive solution:
+Superficial "tips and tricks" are not enough against methods that can also play on our psychological weaknesses. For example, it's not enough to turn off 112 app notifications; we should ask ourselves why on earth we have 112 apps on our phones in the first place? The book offers digital minimalism as a more comprehensive solution:
 
-?
-Digital Minimalism: a philosophy of technology use where you spend your time online on a limited, selected, and optimized set of activities that strongly support your value proposition; everything else you happily opt out of.
+> Digital Minimalism: A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
 
-As with "traditional" minimalism, there is a virtually constant value-for-money trade-off to consider. Not just looking at the positives of something, but also what it costs; or what it is instead of. Here's a bunch of examples that can be succinctly summarised: if you start from your internal value proposition, you'll often end up giving up your addiction - or at least transforming it to serve you, rather than the other way around! Newport has 3 principles to support why his philosophy works.
+As with "traditional" minimalism, there is a need for virtually constant value-for-money trade-off considerations. Not just looking at the benefits of something, but also acknowledging the costs; or what we're doing it *instead of*. The book's bunch of examples that can be succinctly summarised: if we start from our internal values, we'll often end up giving up our addictions voluntarily -- or, at least, transforming them to serve us, rather than the other way around! Newport has 3 principles to support why his philosophy works:
 
-Clutter is expensive. I wouldn't write too verbose a "proof" here, since the author himself mentions Thoreau of all people. So go back and read the Walden post, in case anyone hasn't already! Just very succinctly, Thoreau is very much in favour of economic thinking and calculation, it's just that many of us don't calculate well. Extra things provide extra benefits, yes, but they also have a cost. And in terms of value for money they may not even be worth it anymore!
+1. **Clutter is expensive.**
+I wouldn't want to write too lengthy a "proof" here, since the author himself mentions [Thoreau]({% post_url 2023-01-06-henry-david-thoreau-walden %}) as well. So please go back and read the Walden post if you need further convincing about this point! Just very succinctly: Thoreau is very much in favour of economic thinking and calculation, it's just that many of us don't calculate correctly. Extra things provide extra benefits, sure, but they also have extra costs. And once the costs are factored in, they may not even be worth it anymore!
 
+2. **Optimisation is important.**
+Here the book showcases the usual "diminishing returns" curve. This is most often used to illustrate that after a while the extra work invested into something doesn't yield as much benefit -- that is, the performance growth "flattens out" and it's no longer worth the extra effort. Now we are looking at the other extreme of the graph, showing that a very small investment of energy at the beginning of a process can bring a big improvement in results. Let's try to take the same approach to regulating our digital consumption. Of course, the other side wants to hold this back, because as soon as we think of something as "to be optimized", they won't be able to keep us there for as long. But that should be our motivation: we learn to take advantage of the positives more efficiently, and therefore waste less time!
 
-Optimisation is important. Here the book brings up the "diminishing returns" curve (but I'm not an economist; let me know if you have a nicer name). This is most often used to illustrate that after a while the extra work invested doesn't yield as much - that is, the performance growth "flattens out" and it's no longer worth the extra effort. Now we are looking at the other side of the coin, i.e. that usually a very small investment of energy at the beginning of a process can bring a big improvement in results. Let's try to take the same approach to regulating our digital consumption. Of course, the other side wants to hold this back, because as soon as we think of something as 'optimising', they won't be able to keep us there for so long. But that should be our motivation: we learn to use the positives more efficiently, and therefore we will have less time to regret it!
-
-Intentionality is satisfying. As an example, the Amish come up, who, although at first glance they may appear to be wacky technology-deniers, on closer inspection this is no longer the case. They have their values and judge whether to allow a certain technology into their lives. It's fine to disagree with their values, but we can also learn from how conscious they are about their access to technology and how satisfied they say they are with it. The selectivity itself gives them more than what they are missing out on.
+3. **Intentionality is satisfying.**
+As an example, the Amish come up, who may appear to be wacky technology-deniers at first glance, but this is no longer the case upon closer inspection. They just have their values front and center, and consciously judge whether to allow a certain piece of technology into their lives. It's fine to disagree with their values, but we can all learn from how conscious they are about their access to technology and how satisfied they say they are with it. The selectivity itself gives them more than what they are missing out on.
 
 <br>
 
@@ -112,23 +116,23 @@ Intentionality is satisfying. As an example, the Amish come up, who, although at
 
 ## <a name="implementation"></a> The digital declutter
 
-The digital minimalism outlined above is best achieved through a 3-step transformation. But be prepared for a relatively radical approach. The method is not based on gradual cessation, as attention-grabbing psychological tricks and convenience will gradually wear away our resolve. In the end, we end up back where we started. And I personally agree deeply with that. If we do something, let's do it properly!
+The digital minimalism outlined above is best achieved through a 3-step transformation. But be prepared for a relatively radical approach. The method is not based on scaling back gradually, as attention-grabbing psychological tricks and convenience will be much more likely to wear away our resolve that way. If we do something, let's do it properly!
 
-For testing, 1,600 followers of Newport signed up, from which we received real case studies. His two main findings are that the method 1) works, but 2) it's tricky. If you are too lax - or even too tight - in your withdrawal, if you don't have substitute methods devised, or if you only think of it as a temporary "detox", it won't work. That's why he's included tips alongside the specific steps we've taken to maximise our chances of success:
+1,600 of Newport's followers signed up for testing, which is where most of the real case studies originate. His two main findings are that the method 1) works, but 2) it's tricky. If we are too lax -- or even *too disciplined* -- in our withdrawal, if we don't have substitute methods devised, or if we only think of it as a temporary "detox", it won't work. That's why he's included tips alongside the specific steps we've taken to maximise our chances of success. We should:
 
-Set aside a month when you will give up all optional technologies. Bye-bye to anything consumable on a screen! Including, of course, video games and TV. The word "optional" is important, of course. What you can't cut out completely (say, because of work), you should cut back on - only twice a week, only on the bus, etc.
+1. Set aside a month when we'll give up all optional technologies. Bye-bye to anything consumable on a screen! Including, of course, video games and TV. The word "optional" is important, of course. But what we you can't cut out completely (say, because of work), we should at least cut back on -- only twice a week, only on the bus, etc.
 
-During your month, you'll nicely discover (or even rediscover) activities that you find meaningful and enjoyable. The first 1-2 weeks can be uncomfortable, but once the detox wears off, it brings clarity. And that clarity leads to better later choices than trying to reform your habits right away without such a "fast". But you don't just have to be bored, you have to actively seek what you can use to fill the void left behind! Only obviously in a way that already fits your values.
+2. During this month, we'll nicely discover (or even rediscover) activities that we find meaningful and enjoyable. The first 1-2 weeks can be uncomfortable, but once the detox wears off, it brings clarity. And that clarity leads to better choices later. Trying to reform our habits right away without such a "fast" would deprive us of such clarity. But we shouldn't simply endure being bored, but actively seek out what we can use to fill the void left behind instead! All hits obviously in a way that already fits with our values.
 
-One by one, month after month, you bring back needed technologies where the value for money tends to favour the good. But even for those, you define exactly what function they will perform and how you will use them! The 'throwback phase' is the most important factor in how much this detox will change your life in the long run. It's worth taking the next steps to screen all candidates:
+3. After our month of fast, we can slowly bring back the technologies we really need, one by one, where the value for money balance has proven to be positive. But even for those cases, we should define exactly what function they will perform and how we will use them! The "reintegration phase" is the most important factor in how much the detox will change our lives in the long run. It's worth taking the following steps to screen all candidates:
 
-Does it serve a value that is very important to me? Because it's not enough to just provide something of value.
+    1. Does it serve a value that is very important to me? Because it's not enough to just provide something of value.
 
-If so, does it best serve that particular value? If not, let's leave it - only the best will do!
+    2. If so, is it the best tool serving that particular value? If not, let's leave it -- only the best will do!
 
-Even if we get that far with something, we still need a set of rules for its use. Remember, optimization!
+    3. Even if we get this far with something, we still need a set of rules for its use. Remember, optimization!
 
-At this point we are supposed to be "done"! Our use of digital media is optimised, and we will be able to fit a lot of things into our lives that would have seemed impossible before. And although tips and tricks alone are not enough, knowing the basics, we can now safely make things easier with extra tips and tricks... These are what we're going to do now.
+At this point we are supposed to be "done"! Our use of digital media is optimised, and we will be able to fit a lot of things into our lives that would have seemed impossible before. And although tips and tricks alone are not enough, we now know the basics, so we can now safely make things easier with extra tips and tricks...
 
 <br>
 
